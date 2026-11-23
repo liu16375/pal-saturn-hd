@@ -1,0 +1,25 @@
+施展 %ls	%ls を使った	Cast %ls
+使用 %ls	%ls を使った	Used %ls
+%ls 對 全體 施展 %ls	%ls が全員に %ls を使った	%ls casts on all: %ls
+%ls 對 自己 施展 %ls	%ls が自分に %ls を使った	%ls casts on self: %ls
+%ls 對 %ls 施展 %ls	%ls が %ls に %ls を使った	%ls casts on %ls: %ls
+沒有效果	効果がなかった	No effect
+施展成功	成功した	Success
+趙靈兒：	趙霊児：	Zhao Ling'er:
+祭壇就在神殿內	祭壇は神殿の中にあります	The altar is right inside\nthe temple.
+逍遙哥哥，我們不要出去太久	逍遥お兄ちゃん、あまり\n遠くへ行かないでください	Brother Xiaoyao, let's not\nstay outside too long.
+這應該就是要放入	これがきっと	This must be the stele
+聖靈珠的石碑了。	聖霊珠を納める石碑ですね。	where the Holy Orb goes.
+或許可以使用風靈珠吹散	風霊珠なら吹き払えるかも	Maybe the Wind Orb could\nblow it away.
+遊戲音樂：關	音楽：オフ	Music: Off
+遊戲音樂：開	音楽：オン	Music: On
+遊戲音效：關	効果音：オフ	Sound: Off
+遊戲音效：開	効果音：オン	Sound: On
+自動存檔	オートセーブ	Autosave
+開場動畫	オープニング	Opening Movie
+F1 自動戰鬥：開	F1 オート戦闘：オン	F1 Auto Battle: On
+F1 自動戰鬥：關	F1 オート戦闘：オフ	F1 Auto Battle: Off
+對話記錄	会話ログ	Dialogue Log
+（尚無對話記錄）	（会話ログはまだありません）	No dialogue yet
+左右鍵／滾輪：翻頁	左右キー／ホイール：ページ送り	Left/Right or Wheel: Page
+上下：滾動　翻頁鍵：翻頁　左：返回	上下：スクロール　PageUp/Down：ページ送り　左：戻る	Up/Down: Scroll  PgUp/PgDn: Page  Left: Back

@@ -1,0 +1,413 @@
+2	經驗值	経験値	EXP
+3	狀  態	状態	Status
+4	仙  術	仙術	Magic
+5	物  品	アイテム	Items
+6	系  統	システム	System
+7	新的故事	はじめから	New Game
+8	舊的回憶	つづきから	Continue
+9	打敗敵人得	戦利金	Won
+10	文錢	文	Coins
+11	儲存進度	セーブ	Save
+12	讀取進度	ロード	Load
+13	音樂	音楽	Music
+14	音效	効果音	Sound
+15	結束遊戲	ゲーム終了	Quit
+16	儲存完畢	セーブ完了	Saved
+17	關	オフ	Off
+18	開	オン	On
+19	否	いいえ	No
+20	是	はい	Yes
+21	金錢	お金	Money
+22	裝備	装備	Equip
+23	使用	使う	Use
+24	投擲	投げる	Throw
+25	售價	売値	Price
+26	封	封	Seal
+27	定	縛	Hold
+28	眠	眠	Sleep
+29	亂	乱	Confuse
+30	獲得經驗值	経験値獲得	EXP Gained
+31	逃跑失敗	逃走失敗	Escape Failed
+32	提升	上昇	Up
+33	練成	習得	Learned
+34	獲得	獲得	Got
+35	現有	所持	Owned
+36	李逍遙	李逍遥	Li Xiaoyao
+37	趙靈兒	趙霊児	Zhao Ling'er
+38	林月如	林月如	Lin Yueru
+39	阿奴	阿奴	Anu
+40	巫后	巫后	Witch Queen
+41	蓋羅嬌	蓋羅嬌	Gai Luojiao
+42	煉出	煉成	Refined
+43	本機進度	本体	Internal
+44	卡匣進度一	カセット一	Cartridge I
+45	卡匣進度二	カセット二	Cartridge II
+46	卡匣進度三	カセット三	Cartridge III
+47	卡匣進度四	カセット四	Cartridge IV
+48	修行	修行	Level
+49	體力	体力	HP
+50	真氣	真気	MP
+51	武術	武術	Attack
+52	靈力	霊力	Spirit
+53	防禦	防御	Defense
+54	身法	素早さ	Speed
+55	吉運	幸運	Luck
+56	圍攻	総攻撃	All-Out
+57	道具	道具	Item
+58	防禦	防御	Defense
+59	逃跑	逃げる	Escape
+60	狀態	状態	Status
+61	觀音符	観音符	Guanyin Charm
+62	聖靈符	聖霊符	Holy Charm
+63	金剛符	金剛符	Vajra Charm
+64	淨衣符	浄衣符	Purity Charm
+65	靈心符	霊心符	Clarity Charm
+66	天師符	天師符	Exorcist Charm
+67	風靈符	風霊符	Wind Charm
+68	雷靈符	雷霊符	Thunder Charm
+69	水靈符	水霊符	Water Charm
+70	火靈符	火霊符	Fire Charm
+71	土靈符	土霊符	Earth Charm
+72	舍利子	舎利子	Buddha Relic
+73	玉菩提	玉菩提	Jade Bodhi
+74	銀杏子	銀杏子	Ginkgo Seed
+75	糯米	もち米	Sticky Rice
+76	糯米糕	もち米餅	Rice Cake
+77	鹽巴	塩	Salt
+78	茶葉蛋	茶葉卵	Tea Egg
+79	雞蛋	鶏卵	Egg
+80	糖葫蘆	サンザシ飴	Candied Haws
+81	蠟燭	ろうそく	Candle
+82	符紙	符紙	Charm Paper
+83	檀香	檀香	Sandalwood
+84	大蒜	にんにく	Garlic
+85	黑狗血	黒犬の血	Blackdog Blood
+86	酒	酒	Wine
+87	雄黃	雄黄	Realgar
+88	雄黃酒	雄黄酒	Realgar Wine
+89	九節菖蒲	九節菖蒲	Sweet Flag
+90	驅魔香	駆魔香	Banish Incense
+91	十里香	十里香	Ten-Mile Scent
+92	水果	果物	Fruit
+93	燒肉	焼肉	Roast Meat
+94	醃肉	塩漬け肉	Cured Meat
+95	還魂香	還魂香	Soul Incense
+96	贖魂燈	贖魂灯	Soul Lantern
+97	孟婆湯	孟婆湯	Mengpo Soup
+98	天香續命露	天香続命露	Lifesaving Dew
+99	止血草	止血草	Styptic Herb
+100	行軍丹	行軍丹	Marching Pill
+101	金創藥	金創薬	Wound Salve
+102	蟠果	蟠果	Immortal Fruit
+103	紫菁玉蓉膏	紫菁玉蓉膏	Jade Balm
+104	鼠兒果	鼠児果	Mouse Berry
+105	還神丹	還神丹	Spirit Pill
+106	龍涎草	龍涎草	Dragon Grass
+107	靈山仙芝	霊山仙芝	Fairy Mushroom
+108	雪蓮子	雪蓮子	Snow Lotus
+109	天仙玉露	天仙玉露	Celestial Dew
+110	神仙茶	神仙茶	Immortal Tea
+111	靈葫仙丹	霊葫仙丹	Gourd Elixir
+112	試煉果	試練の実	Trial Fruit
+113	女媧石	女媧石	Nuwa Stone
+114	八仙石	八仙石	Immortal Stone
+115	蜂巢	蜂の巣	Beehive
+116	屍腐肉	屍腐肉	Rotten Flesh
+117	毒蛇卵	毒蛇の卵	Viper Egg
+118	毒蠍卵	毒蠍の卵	Scorpion Egg
+119	毒蟾卵	毒蟾の卵	Toad Egg
+120	蜘蛛卵	蜘蛛の卵	Spider Egg
+121	蜈蚣卵	ムカデの卵	Centipede Egg
+122	鶴頂紅	鶴頂紅	Crane Crest
+123	孔雀膽	孔雀胆	Peacock Gall
+124	血海棠	血海棠	Blood Begonia
+125	斷腸草	断腸草	Gut-Rend Herb
+126	醍醐香	醍醐香	Nectar Incense
+127	忘魂花	忘魂花	Oblivion Bloom
+128	紫罌粟	紫罌粟	Purple Poppy
+129	鬼枯籐	鬼枯藤	Ghost Vine
+130	腹蛇涎	蝮蛇涎	Viper Spittle
+131	蜂王蜜	蜂王蜜	Royal Jelly
+132	雪蛤蟆	雪蝦蟇	Snow Toad
+133	赤蠍粉	赤蠍粉	Scorpion Dust
+134	化屍水	化屍水	Corpse Melter
+135	迷魂香	迷魂香	Daze Incense
+136	九陰散	九陰散	Nine-Yin Dust
+137	無影毒	無影毒	Unseen Poison
+138	三屍蠱	三屍蠱	3-Corpse Gu
+139	金蠶蠱	金蚕蠱	Gold Silkworm
+140	幻蠱	幻蠱	Phantom Gu
+141	隱蠱	隠蠱	Hidden Gu
+142	冰蠶蠱	氷蚕蠱	Ice Silkworm
+143	火蠶蠱	火蚕蠱	Fire Silkworm
+144	食妖蟲	食妖虫	Demon Eater
+145	靈蠱	霊蠱	Spirit Gu
+146	爆烈蠱	爆烈蠱	Blast Gu
+147	碧血蠶	碧血蚕	Azure Silkworm
+148	蠱	蠱	Gu
+149	赤血蠶	赤血蚕	Blood Silkworm
+150	金蠶王	金蚕王	Silkworm King
+151	引路蜂	引路蜂	Guide Bee
+152	傀儡蟲	傀儡虫	Puppet Bug
+153	梅花鏢	梅花鏢	Plum Dart
+154	袖裡劍	袖裏剣	Sleeve Blade
+155	透骨釘	透骨釘	Bone Piercer
+156	雷火珠	雷火珠	Firebolt Bead
+157	毒龍砂	毒龍砂	Venom Sand
+158	吸星鎖	吸星鎖	Star Shackle
+159	纏魂絲	纏魂糸	Soulbind Silk
+160	綑仙繩	縛仙縄	Immortal Snare
+161	無影神針	無影神針	Unseen Needle
+162	血玲瓏	血玲瓏	Blood Jewel
+163	長鞭	長鞭	Long Whip
+164	九截鞭	九節鞭	Nine-Link Whip
+165	金蛇鞭	金蛇鞭	Goldsnake Whip
+166	木劍	木剣	Wooden Sword
+167	短刀	短刀	Dagger
+168	鐵劍	鉄剣	Iron Sword
+169	大刀	大刀	Great Saber
+170	仙女劍	仙女剣	Fairy Sword
+171	長劍	長剣	Long Sword
+172	紅纓刀	紅纓刀	Tassel Saber
+173	越女劍	越女剣	Yue Maiden
+174	戒刀	戒刀	Monk's Saber
+175	玄鐵劍	玄鉄剣	Ebon Sword
+176	芙蓉刀	芙蓉刀	Hibiscus Saber
+177	柳月刀	柳月刀	Crescent Saber
+178	青鋒劍	青鋒剣	Azure Sword
+179	苗刀	苗刀	Miao Saber
+180	鳳鳴刀	鳳鳴刀	Phoenix Saber
+181	雙龍劍	双龍剣	Twin Dragons
+182	玉女劍	玉女剣	Jade Maiden
+183	金童劍	金童剣	Golden Lad
+184	龍泉劍	龍泉剣	Longquan Sword
+185	鬼牙刀	鬼牙刀	Ghostfang
+186	七星劍	七星剣	Dipper Sword
+187	玄冥寶刀	玄冥宝刀	Abyss Saber
+188	巫月神刀	巫月神刀	Witchmoon Edge
+189	磐龍劍	磐龍剣	Coiled Dragon
+190	太極劍	太極剣	Taiji Sword
+191	無塵劍	無塵剣	Dustless Sword
+192	青蛇杖	青蛇杖	Green Serpent
+193	鬼頭杖	鬼頭杖	Skull Staff
+194	冥蛇杖	冥蛇杖	Nether Serpent
+195	天蛇杖	天蛇杖	Sky Serpent
+196	頭巾	頭巾	Headscarf
+197	青絲巾	青絹巾	Silk Scarf
+198	髮飾	髪飾り	Hair Ornament
+199	銀釵	銀かんざし	Silver Hairpin
+200	翠玉金釵	翠玉かんざし	Jade Hairpin
+201	皮帽	革帽子	Leather Cap
+202	珍珠冠	真珠冠	Pearl Crown
+203	天師帽	天師帽	Exorcist Hat
+204	紫金冠	紫金冠	Violet Crown
+205	天蠶絲帶	天蚕糸帯	Skysilk Ribbon
+206	鳳凰羽毛	鳳凰の羽	Phoenix Plume
+207	沖天冠	沖天冠	Skyward Crown
+208	布袍	布袍	Cloth Robe
+209	籐甲	籐甲	Rattan Armor
+210	絲衣	絹衣	Silk Robe
+211	鐵鎖衣	鉄鎖衣	Chain Mail
+212	夜行衣	夜行衣	Night Garb
+213	青銅甲	青銅甲	Bronze Armor
+214	羅漢袍	羅漢袍	Arhat Robe
+215	鐵鱗甲	鉄鱗甲	Scale Mail
+216	天師道袍	天師道袍	Exorcist Robe
+217	精鐵戰甲	精鉄戦甲	Steel Warplate
+218	金縷衣	金縷衣	Golden Raiment
+219	鬼針冑	鬼針冑	Ghostpin Mail
+220	天蠶寶衣	天蚕宝衣	Skysilk Robe
+221	青龍寶甲	青龍宝甲	Azure Dragon
+222	白虎之鎧	白虎の鎧	White Tiger
+223	玄武戰袍	玄武戦袍	Black Tortoise
+224	朱雀戰衣	朱雀戦衣	Vermilion Bird
+225	披風	マント	Cloak
+226	護肩	肩当て	Pauldrons
+227	武士披風	武士マント	Warrior Cloak
+228	護心鏡	護心鏡	Heart Guard
+229	霓虹羽衣	霓虹羽衣	Rainbow Mantle
+230	菩提袈裟	菩提袈裟	Bodhi Cassock
+231	虎紋披風	虎紋マント	Tiger Cloak
+232	鳳紋披風	鳳紋マント	Phoenix Cloak
+233	龍紋披風	龍紋マント	Dragon Cloak
+234	聖靈披風	聖霊マント	Holy Cloak
+235	草鞋	草鞋	Straw Sandals
+236	木鞋	木靴	Wooden Clogs
+237	布靴	布靴	Cloth Boots
+238	繡花鞋	刺繍靴	Brocade Shoes
+239	鐵履	鉄の靴	Iron Shoes
+240	武僧靴	武僧靴	Monk Boots
+241	鹿皮靴	鹿皮靴	Deerskin Boots
+242	疾風靴	疾風靴	Gale Boots
+243	蓮花靴	蓮花靴	Lotus Boots
+244	虎皮靴	虎皮靴	Tiger Boots
+245	龍鱗靴	龍鱗靴	Dragon Boots
+246	步雲靴	歩雲靴	Cloudwalkers
+247	魅影神靴	魅影神靴	Phantom Boots
+248	香袋	匂い袋	Sachet
+249	護腕	腕当て	Bracers
+250	鐵護腕	鉄の腕当て	Iron Bracers
+251	竹笛	竹笛	Bamboo Flute
+252	珍珠	真珠	Pearl
+253	玉鐲	玉の腕輪	Jade Bangle
+254	唸珠	念珠	Prayer Beads
+255	銀針	銀針	Silver Needle
+256	銅鏡	銅鏡	Bronze Mirror
+257	八卦鏡	八卦鏡	Trigram Mirror
+258	乾坤鏡	乾坤鏡	Cosmos Mirror
+259	豹牙手環	豹牙の腕輪	Fang Bracelet
+260	聖靈珠	聖霊珠	Holy Orb
+261	金罡珠	金罡珠	Astral Orb
+262	五毒珠	五毒珠	Five Venom Orb
+263	風靈珠	風霊珠	Wind Orb
+264	雷靈珠	雷霊珠	Thunder Orb
+265	水靈珠	水霊珠	Water Orb
+266	火靈珠	火霊珠	Fire Orb
+267	土靈珠	土霊珠	Earth Orb
+268	煉蠱皿	煉蠱皿	Gu Crucible
+269	壽葫蘆	寿葫蘆	Life Gourd
+270	紫金葫蘆	紫金葫蘆	Violet Gourd
+271	布包	布包み	Cloth Bundle
+272	桂花酒	桂花酒	Osmanthus Wine
+273	紫金丹	紫金丹	Violet Elixir
+274	玉佛珠	玉仏珠	Jade Rosary
+275	金鳳凰蛋殼	金鳳凰の卵殻	Phoenix Shell
+276	火眼麒麟角	火眼麒麟角	Qilin Horn
+277	青龍碧血玉	青龍碧血玉	Dragon Jade
+278	毒龍膽	毒龍胆	Dragon Gall
+279	破天鎚	破天鎚	Skybreaker
+280	包袱	風呂敷包み	Travel Bundle
+281	銀杏果	銀杏果	Ginkgo Nut
+282	鯉魚	鯉	Carp
+283	鹿茸	鹿茸	Antler Velvet
+284	釣竿	釣り竿	Fishing Rod
+285	捕獸夾	捕獣罠	Beast Trap
+286	六神丹	六神丹	Six Gods Pill
+287	情書	恋文	Love Letter
+288	玉珮	玉佩	Jade Pendant
+289	石鑰匙	石の鍵	Stone Key
+290	天書	天書	Heavenly Book
+291	香蕉	バナナ	Banana
+292	鳳紋手絹	鳳紋の手巾	Phoenix Cloth
+293	手卷	巻物	Scroll
+294	蘆葦漂	葦の浮き	Reed Float
+295	夢蛇	夢蛇	Dream Snake
+296	氣療術	気療術	Qi Healing
+297	觀音咒	観音呪	Guanyin Chant
+298	凝神歸元	凝神帰元	Spirit Renewal
+299	元靈歸心術	元霊帰心術	Soul Mending
+300	五氣朝元	五気朝元	Five Qi Unity
+301	還魂咒	還魂呪	Soul Recall
+302	贖魂	贖魂	Redeem Soul
+303	迴夢	回夢	Dream Daze
+304	奪魂	奪魂	Soul Snatch
+305	鬼降	鬼降	Ghost Hex
+306	淨衣咒	浄衣呪	Purity Chant
+307	冰心訣	氷心訣	Ice Heart
+308	靈血咒	霊血呪	Spirit Blood
+309	金剛咒	金剛呪	Vajra Chant
+310	真元護體	真元護体	Essence Guard
+311	天罡戰氣	天罡戦気	Astral Fury
+312	風咒	風呪	Wind Spell
+313	旋風咒	旋風呪	Whirlwind
+314	風捲殘雲	風巻残雲	Cloud Sweeper
+315	風神	風神	Wind God
+316	雷咒	雷呪	Thunder Spell
+317	五雷咒	五雷呪	Five Thunders
+318	天雷破	天雷破	Heaven's Bolt
+319	狂雷	狂雷	Raging Thunder
+320	雷神	雷神	Thunder God
+321	冰咒	氷呪	Ice Spell
+322	玄冰咒	玄氷呪	Mystic Ice
+323	風雪冰天	風雪氷天	Blizzard
+324	風雪冰天1	風雪氷天	Blizzard
+325	雪妖	雪妖	Snow Demon
+326	火術	火術	Fire Spell
+327	炎咒	炎呪	Flame Spell
+328	三昧真火	三昧真火	Samadhi Fire
+329	炎殺咒	炎殺呪	Killing Flame
+330	煉獄真火	煉獄真火	Infernal Fire
+331	火龍	火龍	Fire Dragon
+332	土咒	土呪	Earth Spell
+333	飛岩術	飛岩術	Flying Rocks
+334	地裂天崩	地裂天崩	Earthshatter
+335	泰山壓頂	泰山圧頂	Taishan Crush
+336	山神	山神	Mountain God
+337	氣劍指	気剣指	Sword Finger
+338	弦月斬	弦月斬	Crescent Slash
+339	弦月斬1	弦月斬	Crescent Slash
+340	一陽指	一陽指	Yang Finger
+341	七訣劍氣	七訣剣気	Seven Sword Qi
+342	斬龍訣	斬龍訣	Dragon Slayer
+343	暗器	暗器	Hidden Weapon
+344	銅錢鏢	銅銭鏢	Coin Dart
+345	御劍術	御剣術	Sword Command
+346	萬劍訣	万剣訣	Myriad Swords
+347	心劍合一	心剣合一	Sword Unity
+348	天劍	天剣	Heaven Sword
+349	天師符法	天師符法	Exorcist Sigil
+350	斬魔刀	斬魔刀	Demon Cleaver
+351	武神	武神	War God
+352	三屍咒	三屍呪	3-Corpse Curse
+353	御蜂術	御蜂術	Bee Command
+354	萬蟻蝕象	万蟻蝕象	Myriad Ants
+355	天女散花	天女散花	Fairy Petals
+356	劍氣	剣気	Sword Qi
+357	煉獄爪	煉獄爪	Infernal Claw
+358	血魔神功	血魔神功	Bloodfiend Art
+359	狂風術	狂風術	Raging Wind
+360	鞭擊	鞭撃	Whip Strike
+361	御劍伏魔	御剣伏魔	Demon Subduer
+362	御劍伏魔1	御剣伏魔	Demon Subduer
+363	劍神	剣神	Sword God
+364	風靈符法	風霊符法	Wind Sigil
+365	雷靈符法	雷霊符法	Thunder Sigil
+366	水靈符法	水霊符法	Water Sigil
+367	火靈符法	火霊符法	Fire Sigil
+368	土靈符法	土霊符法	Earth Sigil
+369	氣吞天下	気呑天下	World Devourer
+370	酒神	酒神	Wine God
+371	瘴氣	瘴気	Miasma
+372	萬蠱蝕天	万蠱蝕天	Myriad Gu
+373	毒吞天下	毒呑天下	Venom Devourer
+374	爆炸蠱	爆発蠱	Exploding Gu
+375	鎮天鼎	鎮天鼎	Sky Cauldron
+376	咒蛇	呪蛇	Curse Snake
+377	飛龍探雲手	飛龍探雲手	Dragon Snatch
+378	火龍掌	火龍掌	Firedrake Palm
+379	滅絕一擊	滅絶一撃	Doom Strike
+380	橫掃千軍	横掃千軍	Army Sweep
+381	爆炸	爆発	Explosion
+382	魔掌天下	魔掌天下	Demon Palm
+383	佛法無邊	仏法無辺	Endless Dharma
+384	靈葫咒	霊葫呪	Spirit Gourd
+385	氣魔燄	気魔焔	Demon Qi Flame
+386	合體氣功	合体気功	Fusion Qigong
+387	氣功	気功	Qigong
+388	劍氣斬	剣気斬	Sword Qi Slash
+389	火神	火神	Fire God
+390	醉仙望月步	酔仙望月歩	Drunken Step
+391	投擲	投げる	Throw
+392	金蟬脫殼	金蝉脱殻	Cicada Escape
+393	仙風雲體術	仙風雲体術	Cloud Body Art
+394	乾坤一擲	乾坤一擲	All or Nothing
+551	赤毒	赤毒	Red Poison
+552	屍毒	屍毒	Corpse Poison
+553	瘴毒	瘴毒	Miasma Poison
+554	毒絲	毒糸	Poison Silk
+555	三屍蠱毒	三屍蠱毒	3-Corpse Venom
+556	鶴頂紅毒	鶴頂紅毒	Crane Venom
+557	孔雀膽毒	孔雀胆毒	Peacock Venom
+558	血海棠毒	血海棠毒	Begonia Venom
+559	斷腸草毒	断腸草毒	Gut-Rend Venom
+560	金蠶蠱毒	金蚕蠱毒	Goldworm Venom
+561	食妖蟲附	食妖虫憑き	Eater Attached
+562	碧血蠶附	碧血蚕憑き	Worm Attached
+563	HP回補	体力回復	HP Regen
+564	MP回補	真気回復	MP Regen
+565	毒�	毒	Poison
+566	五雷咒1	五雷呪	Five Thunders
+567	玄冰咒1	玄氷呪	Mystic Ice
+568	三昧真火1	三昧真火	Samadhi Fire
+569	飛岩術1	飛岩術	Flying Rocks
+570	煉獄真火1	煉獄真火	Infernal Fire

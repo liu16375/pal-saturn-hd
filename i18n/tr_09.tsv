@@ -1,0 +1,532 @@
+8155	蟠果を見つけた	Found Immortal Fruit
+8156	鼠児果を見つけた	Found Mouse Berry
+8157	還神丹を見つけた	Found Spirit Pill
+8158	龍涎草を見つけた	Found Dragon Grass
+8159	霊山仙芝を見つけた	Found Fairy Mushroom
+8160	雪蓮子を見つけた	Found Snow Lotus
+8161	天仙玉露を見つけた	Found Celestial Dew
+8162	蜂王蜜を見つけた	Found Royal Jelly
+8163	霊葫仙丹を見つけた	Found Gourd Elixir
+8164	神仙茶を見つけた	Found Immortal Tea
+8165	蜂の巣を見つけた	Found Beehive
+8166	醍醐香を見つけた	Found Nectar Incense
+8167	忘魂花を見つけた	Found Oblivion Bloom
+8168	紫罌粟を見つけた	Found Purple Poppy
+8169	迷魂香を見つけた	Found Daze Incense
+8170	蠱を見つけた	Found Gu
+8171	幻蠱を見つけた	Found Phantom Gu
+8172	氷蚕蠱を見つけた	Found Ice Silkworm
+8173	火蚕蠱を見つけた	Found Fire Silkworm
+8174	銀針を見つけた	Found Silver Needle
+8175	頭巾を見つけた	Found Headscarf
+8176	青絹巾を見つけた	Found Silk Scarf
+8177	髪飾りを見つけた	Found Hair Ornament
+8178	銀かんざしを見つけた	Found Silver Hairpin
+8179	布袍を見つけた	Found Cloth Robe
+8180	籐甲を見つけた	Found Rattan Armor
+8181	絹衣を見つけた	Found Silk Robe
+8182	マントを見つけた	Found Cloak
+8183	肩当てを見つけた	Found Pauldrons
+8184	護心鏡を見つけた	Found Heart Guard
+8185	草鞋を見つけた	Found Straw Sandals
+8186	木靴を見つけた	Found Wooden Clogs
+8187	布靴を見つけた	Found Cloth Boots
+8188	刺繍靴を見つけた	Found Brocade Shoes
+8189	匂い袋を見つけた	Found Sachet
+8190	腕当てを見つけた	Found Bracers
+8191	真珠を見つけた	Found Pearl
+8192	玉の腕輪を見つけた	Found Jade Bangle
+8193	念珠を見つけた	Found Prayer Beads
+8194	銅鏡を見つけた	Found Bronze Mirror
+8195	観音符を見つけた	Found Guanyin Charm
+8196	金剛符を見つけた	Found Vajra Charm
+8197	浄衣符を見つけた	Found Purity Charm
+8198	霊心符を見つけた	Found Clarity Charm
+8199	天師符を見つけた	Found Exorcist Charm
+8200	駆魔香を見つけた	Found Banish Incense
+8201	十里香を見つけた	Found Ten-Mile Scent
+8202	この者には装備できない	This character can't equip it
+8203	これは気軽に捨てられない	Can't just throw this away
+8204	この者には使えない	This character can't use it
+8205	何の効果もない	No effect at all
+8206	攻撃は効かない	Attack has no effect
+8207	この場面では使えない	Can't be used here
+8208	蠱を煉る材料が足りない	Not enough Gu ingredients
+8209	蠱を一匹煉成した．．	Refined one Gu...
+8210	風呂敷包みを開けると、中には５００文の銭、巻物が一巻、傷薬がいくらか、刺繍靴が一足、玉の腕輪、それに少し錆びた鉄剣が一振り入っていた．．	He opens the bundle. Inside are 500 coins, a scroll, some healing medicine, a pair of brocade shoes, a jade bangle, and a slightly rusty iron sword...
+8211	あれ？これ、親父の剣じゃないか。なくなったと思ってたのに、おばさんがずっとしまっておいてくれたのか．．	Huh? Isn't this Dad's sword? I thought it was lost... so Auntie had been keeping it safe all this time...
+8212	ここには置けない	Can't place it here
+8213	手紙にはこう書いてある：	The letter reads:
+8214	"美しく優しくおおらかで愛らしく"	"Beautiful, gentle, gracious,"
+8215	"善良で淑やかな阿香さん、ずっと"	"adorable, kind, virtuous Miss"
+8216	"ずっと前からお慕いして…………	"Axiang, I've admired you for
+8217	"…………おりました。阿輝より"	"so very, very long... Ahui."
+8219	これは何？　私にくれるの？	What is this? Is it for me?
+8220	本を読んでいるのよ。用がないなら邪魔しないで！	I am reading. Don't bother me unless you have business!
+8222	"飛龍探雲手"と"氷心訣"の口訣と図解、それに一通の手紙	The incantations and diagrams for "Dragon Snatch" and "Ice Heart", along with a letter
+8224	逍遥．．\n探雲手は、お前の父さんと母さんが生前、江湖にその名を轟かせた絶技です。今こそお前に伝える時が来ました。この絶技は必ず正しい道に使い、お前の父さん、南盗侠の名を決して汚してはなりません	Xiaoyao...\nThe Dragon Snatch is the peerless art that made your father and mother famous across the martial world while they lived. The time has come to pass it on to you. You must use this art only for righteous ends, and never disgrace your father's good name as the Southern Thief-Hero
+8225	李逍遥は"飛龍探雲手"と"氷心訣"の二つの絶技を習得した	Li Xiaoyao learned two secret arts: "Dragon Snatch" and "Ice Heart"
+8226	余り布で縫った頭巾。\n防御+1	A headscarf sewn from leftover cloth.\nDefense+1
+8227	青い絹織りの髪帯。\n防御+2	A blue woven-silk hair ribbon.\nDefense+2
+8228	錫で作られた女性用の髪飾り。\n防御+3	A woman's hair ornament made of tin.\nDefense+3
+8229	純銀のかんざし。\n防御+5	A hairpin of pure silver.\nDefense+5
+8230	緑の翡翠をはめ込んだ黄金のかんざし。\n防御+9	A golden hairpin set with green jade.\nDefense+9
+8231	羊の革で縫った帽子。とても暖かい。\n防御+4	A cap sewn from sheepskin. Very warm.\nDefense+4
+8232	真珠を縫いつけた赤い錦の冠。\n防御+13	A red brocade crown sewn with pearls.\nDefense+13
+8233	道士が法術を行う時にかぶる帽子。\n防御+11　霊力+3	The hat a Taoist wears when performing rites.\nDefense+11 Spirit+3
+8234	薄い銅板を鋳て作り、外側を紫と金で飾った冠。\n防御+18	A crown cast from thin copper plate, its shell adorned in violet and gold.\nDefense+18
+8235	きわめて貴重な天蚕の糸で織られ、軽く薄くしなやか。\n防御+25　素早さ+8	Woven from exceedingly precious skysilk; light, thin and supple.\nDefense+25 Speed+8
+8236	金翅の鳳凰の腹に生える銀色の羽。\n防御+7　素早さ+24　幸運+9	A silver feather from the belly of a golden-winged phoenix.\nDefense+7 Speed+24 Luck+9
+8237	天の兵将が遺した頭を守る金の兜。頂に雉の尾羽が二本挿してある。\n防御+28　素早さ+5　霊力+3　幸運+3	A golden helm left behind by the soldiers of Heaven, topped with a pair of pheasant tail feathers.\nDefense+28 Speed+5 Spirit+3 Luck+3
+8238	粗布で縫った、襟を合わせる長袖の白い袍。\n防御+3	A long-sleeved, cross-collared white robe sewn from coarse cloth.\nDefense+3
+8239	蚕の糸で織られ、軽く柔らかで風通しがよい。\n防御+3　素早さ+4	Woven from silk; light, soft and airy.\nDefense+3 Speed+4
+8240	荊の蔓を編んで作った鎧。\n防御+7	Armor woven from thorny rattan.\nDefense+7
+8241	鉄の輪をつなぎ合わせて作った鎧。\n防御+13　素早さ-10	Armor made of interlocked iron rings.\nDefense+13 Speed-10
+8242	修行を積み悟りを得た和尚が着る衣。\n防御+10　幸運+10　霊力+10	The robe worn by monks who have attained enlightenment through training.\nDefense+10 Luck+10 Spirit+10
+8243	体にぴったり合う漆黒の装束。夜の闇に身を隠すのに適している。\n防御+18　素早さ+12　幸運+12	A tight-fitting suit of pitch black, made for vanishing into the night.\nDefense+18 Speed+12 Luck+12
+8244	獣面紋を施した青銅製の胸甲。\n防御+22　素早さ-13	A bronze breastplate bearing a beast-face motif.\nDefense+22 Speed-13
+8245	魚の鱗の形をした鉄片をつづり合わせた鎧。\n防御+28　素早さ-4	Armor of plates shaped like fish scales, laced together.\nDefense+28 Speed-4
+8246	天師道の開祖が修行の時に着ていた法衣。\n防御+33　霊力+28	The vestment worn in training by the founder of the Way of the Celestial Masters.\nDefense+33 Spirit+28
+8247	楕円形の精鉄片をつづり合わせた鎧。まばゆく輝くため「光明鎧」とも呼ばれる。\n防御+40　素早さ-7	Laced from oval plates of fine steel, it shines dazzlingly, and is also called the 'Armor of Radiance'.\nDefense+40 Speed-7
+8248	金の糸で玉片をつづって作られ、「金縷玉衣」とも呼ばれる。\n防御+47　素早さ-10	Made of jade plaques threaded with gold wire; also called the 'Jade Suit Sewn with Gold'.\nDefense+47 Speed-10
+8249	一面に逆さ棘の生えた銅製の鎧。\n防御+55　武術+9	Copper armor bristling with barbs.\nDefense+55 Attack+9
+8250	きわめて貴重な天蚕の糸で織られ、軽く薄くしなやか。\n防御+66	Woven from exceedingly precious skysilk; light, thin and supple.\nDefense+66
+8251	龍の鱗をつづり合わせた、世に並ぶもののない最高の戦甲。\n防御+90	Laced from dragon scales; the supreme battle armor in all the world.\nDefense+90
+8252	珍しい白虎の皮で作られた革鎧。\n防御+80	Leather armor made from the hide of a rare white tiger.\nDefense+80
+8253	玄武の甲羅を鍛えて作られ、材質は堅くしなやかで、黒く光沢がない。\n防御+80	Forged from the shell of the Black Tortoise; tough and resilient, black and without luster.\nDefense+80
+8254	南方の火の鳥の羽で織り上げたもの。\n防御+80	Woven from the feathers of the fire bird of the south.\nDefense+80
+8255	襟がなく前で合わせる袖なしの羽織りもの。俗に「斗篷」という。\n防御+2	A collarless, sleeveless wrap that opens down the front; commonly called a 'cape'.\nDefense+2
+8256	肩と腕にかける鎧。「掩膊」ともいう。\n防御+6	Armor worn over the shoulders and upper arms; also called 'arm covers'.\nDefense+6
+8257	将帥が着る、肩当ての軟甲がついた戦用の羽織り。\n防御+12	A battle mantle with soft armored shoulder guards, worn by generals.\nDefense+12
+8258	胸の急所を守る当て金。銅鏡のような形をしている。\n防御+20	A plate that guards the vital spot on the chest, shaped like a bronze mirror.\nDefense+20
+8259	東海の霓虹鳥の羽で織った肩掛け。\n防御+18　素早さ+18　幸運+18	A shawl woven from the feathers of the rainbow bird of the Eastern Sea.\nDefense+18 Speed+18 Luck+18
+8260	位の高い僧衣で、「無垢衣」ともいう。多くは高僧や長老が身につける。\n防御+31　霊力+16	A high-ranking monk's robe, also called the 'Stainless Robe'; mostly worn by eminent monks and elders.\nDefense+31 Spirit+16
+8261	千年を生きた白額虎の皮を丸ごと一枚使ったもの。毛皮は黄色で、黒い横縞がある。\n防御+40	Made from the whole pelt of a thousand-year-old white-browed tiger; the fur is yellow with black stripes.\nDefense+40
+8262	織女が縫ったと伝えられるマント。鳳凰を刺繍した錦で、目を奪うほどに輝く。\n防御+52	A cloak said to have been sewn by the Weaver Maid; phoenix-embroidered brocade of dazzling splendor.\nDefense+52
+8263	布地に二頭の龍が珠を奪い合う彩り模様が刺繍され、神龍が身を護る効き目がある。\n防御+60	Embroidered with a colorful design of two dragons vying for a pearl; it grants the protection of the divine dragon.\nDefense+60
+8264	巫后の遺品。神聖な力が秘められている。\n防御+66　霊力+30	A keepsake of the Witch Queen, with sacred power hidden within.\nDefense+66 Spirit+30
+8265	藺草を編んで作ったもの。とても安く、履くと軽くて歩きやすい。\n防御+1	Woven from rushes. Very cheap, light to wear and good for walking.\nDefense+1
+8266	木を削って作ったもの。甲の部分に縁起のよい図柄が彫ってある。\n防御+2	Carved from wood, with auspicious designs cut into the uppers.\nDefense+2
+8267	粗布で縫った長靴。\n防御+3　素早さ+2	High boots sewn from coarse cloth.\nDefense+3 Speed+2
+8268	繻子で縫われ、甲には龍頭鳳尾の花が刺繍してある。\n防御+4	Sewn from satin, the uppers embroidered with dragon-head phoenix-tail flowers.\nDefense+4
+8269	靴底に鉄板を縫い込んであり、普通の布靴より重い。\n防御+6	Iron plates are sewn into the soles, making them heavier than ordinary cloth boots.\nDefense+6
+8270	羅漢僧が武術の稽古に履く布靴。\n防御+8　素早さ+6	Cloth boots worn by arhat monks for martial training.\nDefense+8 Speed+6
+8271	甲を鹿の毛皮で縫ってあり、軽く柔らかい。鹿のように素早く動ける。\n防御+11　素早さ+9	The uppers are sewn from deer hide, light and soft; the wearer moves as swiftly as a deer.\nDefense+11 Speed+9
+8272	雲か霧のように薄い蝉紗で織られ、履く者を風のごとく速く走らせる。\n防御+14　素早さ+17	Woven from gauze as thin as mist, they help the wearer run like the wind.\nDefense+14 Speed+17
+8273	金の蓮をあしらった長い刺繍靴。\n防御+18　素早さ+5	High embroidered shoes adorned with golden lotuses.\nDefense+18 Speed+5
+8274	東北の虎の毛皮を縫って作ったもの。\n防御+21　素早さ+16	Sewn from the pelt of a northeastern tiger.\nDefense+21 Speed+16
+8275	龍の鱗をつづり合わせたもの。\n防御+25　素早さ+12	Laced together from dragon scales.\nDefense+25 Speed+12
+8276	雲中子が羽化登仙した後に遺した神靴。\n防御+28　素早さ+20	Divine boots left behind by Yunzhongzi after he ascended as an immortal.\nDefense+28 Speed+20
+8277	妖魔が取り憑き、身のこなしは幽鬼のごとし。\n防御+32　素早さ+26	Possessed by a demon, the wearer moves like a phantom.\nDefense+32 Speed+26
+8278	粗布で縫った手首当て。\n防御+2	Wrist covers sewn from coarse cloth.\nDefense+2
+8279	精鋼で鍛えた手首を守る輪。\n防御+5	Wrist guards forged from fine steel.\nDefense+5
+8280	青竹を削って作った七つ孔の横笛。\n幸運+18	A seven-holed transverse flute carved from green bamboo.\nLuck+18
+8281	腕にはめる玉製の輪の飾り。\n防御+5　幸運+9	A ring-shaped jade ornament worn on the arm.\nDefense+5 Luck+9
+8282	貝の中に生まれる球状のもの。貴重な装飾品。\n幸運+20	A round bead that grows inside shellfish; a precious ornament.\nLuck+20
+8283	仏教徒が経や呪、仏の名を唱えた回数を数えるための珠。\n霊力+5　防御+5	Beads with which Buddhists count their recitations of sutras, mantras or the Buddha's name.\nSpirit+5 Defense+5
+8284	鏡面に朱砂で八卦を描いたもの。自然界の霊気を借りることができる。\n霊力+8　防御+8	The Eight Trigrams are drawn on the mirror in cinnabar; it can borrow the spiritual energy of nature.\nSpirit+8 Defense+8
+8285	銅鏡の裏に太極乾坤図が鋳込まれ、天地陰陽の霊気を吸い取ることができる。\n霊力+14　防御+14	A bronze mirror with the Taiji cosmos diagram cast on its back; it draws in the yin and yang energy of heaven and earth.\nSpirit+14 Defense+14
+8286	豹の鋭い牙を集めてつないだ腕輪。\n防御+9	A bracelet strung from the sharp fangs of leopards.\nDefense+9
+8287	青銅で鋳た、顔を映すための道具。\n防御+6	A tool cast in bronze for looking at one's reflection.\nDefense+6
+8288	木を彫って作った剣。子供のおもちゃ。\n武術+2　素早さ+3	A sword carved from wood; a child's toy.\nAttack+2 Speed+3
+8289	一尺半ほどの切れ味の鈍い刀。薪割りに使える。\n武術+6　素早さ-5	A dull blade a foot and a half long; good for chopping firewood.\nAttack+6 Speed-5
+8290	普通の鍛冶屋が大量に作る剣。かなり粗い出来。\n武術+10　防御+3	A sword mass-produced by ordinary blacksmiths; rather crudely made.\nAttack+10 Defense+3
+8291	刀身は幅広く長く、刃は鋭く、峰は厚く重い。\n武術+16　防御+1	The blade is broad and long, the edge keen, the spine thick and heavy.\nAttack+16 Defense+1
+8292	一尺ほどの二刀一対の剣。女性に向いており、二回攻撃できる。\n武術+8　防御+5	A pair of foot-long swords, one for each hand; suited to women, and they strike twice.\nAttack+8 Defense+5
+8293	普通の鍛冶屋が注文を受けて打つ剣。鉄剣より精巧で鋭い。\n武術+25	A sword made to order by ordinary blacksmiths; finer and sharper than the Iron Sword.\nAttack+25
+8294	精鋼で鍛えられ、峰は厚く刃は薄い。柄には赤い長房が飾ってある。\n武術+38	Forged of fine steel with a thick spine and thin edge; a long red tassel adorns the hilt.\nAttack+38
+8295	剣身の幅はわずか指二本分。女性のために作られた剣。\n武術+22　素早さ+8	The blade is only two fingers wide; a sword made especially for women.\nAttack+22 Speed+8
+8296	百花派だけに伝わる武器、二刀一対の湾刀。二回攻撃できる。\n武術+16　素早さ+8	The signature weapon of the Hundred Flowers Sect: a pair of curved sabers that strike twice.\nAttack+16 Speed+8
+8297	仏門の者が武術の稽古に使う刀。殺生して血に染めることは固く禁じられている。\n武術+55　防御+5　霊力+10	A saber used by Buddhist monks for martial training; taking life and staining it with blood is strictly forbidden.\nAttack+55 Defense+5 Spirit+10
+8298	細長い鉄製の双刀。柳の葉や三日月のような形で、二回攻撃できる。\n武術+28　素早さ+12　防御+3	A pair of slender iron sabers shaped like willow leaves or the crescent moon; they strike twice.\nAttack+28 Speed+12 Defense+3
+8299	貴重な黒い鉄鉱から鍛えられたもの。堅くしなやかで鋭いが、きわめて重く扱いにくい。\n武術+70　素早さ-20　霊力-15　防御+9	Forged from precious black iron ore; tough and sharp, but extremely unwieldy.\nAttack+70 Speed-20 Spirit-15 Defense+9
+8300	普通の剣と同じ長さの二刀一対の剣。二回攻撃できる。\n武術+62　防御+9　素早さ+9	A pair of swords, each as long as an ordinary sword; they strike twice.\nAttack+62 Defense+9 Speed+9
+8301	名匠が心を込めて鍛えた剣。軽く薄く鋭い。\n武術+75　素早さ+15	A sword painstakingly forged by a master smith; light, thin and keen.\nAttack+75 Speed+15
+8302	龍泉の水は剣作りにたいへん適しており、その地で作られた剣を龍泉剣と呼ぶ。\n武術+88　素早さ+20　幸運+22	The waters of Longquan are ideal for swordmaking, and the swords made there are called Longquan swords.\nAttack+88 Speed+20 Luck+22
+8303	鴛鴦双剣の雌剣。金童剣と対をなす。\n武術+100　霊力+15　素早さ+20　幸運+30	The female blade of the Mandarin Duck twin swords; it forms a pair with the Golden Lad.\nAttack+100 Spirit+15 Speed+20 Luck+30
+8304	鴛鴦双剣の雄剣。玉女剣と対をなす。\n武術+100　幸運+30　素早さ+20　霊力+15　防御+3	The male blade of the Mandarin Duck twin swords; it forms a pair with the Jade Maiden.\nAttack+100 Luck+30 Speed+20 Spirit+15 Defense+3
+8305	鞘から抜く音が鳳凰の鳴き声のようなので「鳳鳴刀」と呼ばれる。\n武術+124　防御+9　素早さ+32　霊力+16	It leaves its sheath with a sound like a phoenix's cry, hence the name 'Phoenix Saber'.\nAttack+124 Defense+9 Speed+32 Spirit+16
+8306	剣身に七つの黄金色の宝石がはめ込まれ、北斗七星の精気を吸い取ることができる。\n武術+120　霊力+50　素早さ+32　幸運+33　防御+7	Seven golden gems are set in the blade, which can draw in the essence of the seven stars of the Northern Dipper.\nAttack+120 Spirit+50 Speed+32 Luck+33 Defense+7
+8307	鋳剣の宗師、欧冶子が鍛えた宝剣。剣身には柱に巻きつく青龍が鋳込まれている。\n武術+134　霊力+37　防御+8　素早さ+40　幸運+32	A precious sword forged by the great swordsmith Ou Yezi; an azure dragon coiled around a pillar is cast into the blade.\nAttack+134 Spirit+37 Defense+8 Speed+40 Luck+32
+8308	道祖張陵が身につけていた剣。天師はこれを頼りに妖魔を降した。\n武術+158　霊力+90　防御+35　素早さ+50　幸運+33	The personal sword of the patriarch Zhang Ling; with it the Celestial Master subdued demons and evil spirits.\nAttack+158 Spirit+90 Defense+35 Speed+50 Luck+33
+8309	上古の神剣。天を指せば天が崩れ、地を払えば地が裂ける。\n武術+200　防御+20　素早さ+77　幸運+33	A divine sword of high antiquity. Point it at the sky and the sky falls; draw it across the earth and the earth splits.\nAttack+200 Defense+20 Speed+77 Luck+33
+8310	絡み合う二匹の蛇を彫った緑玉の杖。\n武術+50　霊力+62　防御+6	A staff of green jade carved with two entwined serpents.\nAttack+50 Spirit+62 Defense+6
+8311	苗族の巫師が鬼を使役し蠱を煉るための法器。髑髏の中に四十九の生霊が囚われている。\n武術+70　霊力+88　防御+11	A ritual tool with which Miao sorcerers command ghosts and brew Gu; forty-nine living souls are imprisoned inside the skull.\nAttack+70 Spirit+88 Defense+11
+8312	冥界から来た魔杖。あらゆる邪悪に号令し、杖の先には千年の蛇王の内丹がはめ込まれている。\n武術+88　霊力+120　防御+22	A demonic staff from the netherworld that commands all evil things; its head is set with the inner core of a thousand-year-old serpent king.\nAttack+88 Spirit+120 Defense+22
+8313	女神媧皇が五色の石を煉る時に用いた法杖。\n武術+100　霊力+150　防御+33　幸運+36	The staff the goddess Nuwa used when she smelted the five-colored stones.\nAttack+100 Spirit+150 Defense+33 Luck+36
+8314	木屑と香粉を詰めた小さな布袋。飾りと魔除けを兼ねてよく使われる品。\n霊力+8　幸運+9　毒回避率+20%	A small cloth pouch filled with wood shavings and scented powder, often worn both as an ornament and to ward off evil.\nSpirit+8 Luck+9 Poison Resist+20%
+8315	西方の如来の仏前にあった念珠。仏法の薫陶を受けて霊性を得た。合体仙術：仏法無辺\n霊力+88　防御+18　毒回避率+30%	Prayer beads from before the altar of the Buddha of the West; steeped in the Dharma, they have gained spiritual power. Fusion Magic: Endless Dharma\nSpirit+88 Defense+18 Poison Resist+30%
+8316	女媧の末裔に代々伝わる宝物。歴代の聖なる魂が帰り宿るところ。合体仙術：武神\n霊力+128　防御+15　毒回避率+35	A treasure handed down among the last descendants of Nuwa; the resting place to which the holy souls of each generation return. Fusion Magic: War God\nSpirit+128 Defense+15 Poison Resist+35
+8317	戦闘中に真気が湧き出て持ち主を補い、気力を奮い立たせる不思議な効き目がある。\n体力真気が毎ターン+20	In battle it wells up with qi to replenish its bearer, with a wondrous power to rouse body and spirit.\nHP and MP+20 every turn
+8318	大羅金仙が千年かけて修練した内丹。\n防御+90	The inner core that a Great Golden Immortal cultivated for a thousand years.\nDefense+90
+8319	女媧が風神を降した後、風神を中に封じ込めた宝珠。\n合体仙術：風巻残雲\n風回避率+50%	The orb in which Nuwa sealed the Wind God after subduing him.\nFusion Magic: Cloud Sweeper\nWind Resist+50%
+8320	女媧が雷神を降した後、雷神を中に封じ込めた宝珠。\n合体仙術：狂雷\n雷回避率+50%	The orb in which Nuwa sealed the Thunder God after subduing him.\nFusion Magic: Raging Thunder\nThunder Resist+50%
+8321	女媧が雪妖を降した後、雪妖を中に封じ込めた宝珠。\n合体仙術：風雪氷天\n水回避率+50%	The orb in which Nuwa sealed the Snow Demon after subduing it.\nFusion Magic: Blizzard\nWater Resist+50%
+8322	女媧が火神を降した後、火神を中に封じ込めた宝珠。\n合体仙術：煉獄真火\n火回避率+50%	The orb in which Nuwa sealed the Fire God after subduing him.\nFusion Magic: Infernal Fire\nFire Resist+50%
+8323	女媧が山神を降した後、山神を中に封じ込めた宝珠。\n合体仙術：泰山圧頂\n洞窟からの脱出に使える。\n土回避率+50%。	The orb in which Nuwa sealed the Mountain God after subduing him.\nFusion Magic: Taishan Crush\nCan be used to escape from caves.\nEarth Resist+50%.
+8324	噛み砕いて傷口に当てると、すぐに血が止まる。\n体力+50	Chewed up and pressed on a wound, it quickly stops the bleeding.\nHP+50
+8325	血の巡りをよくし、気を整える丸薬。\n体力+100	A pill that quickens the blood and smooths the flow of qi.\nHP+100
+8326	上等な刀傷の薬。腐った肉を除き、新しい肉を生じさせる。\n体力+200	A fine salve for blade wounds; it clears away dead flesh and grows new.\nHP+200
+8327	西王母の蟠桃園から伝わった種。種は小さく果肉は厚く、果汁は香り高く甘い。\n体力+450	Descended from the peach orchard of the Queen Mother of the West; small-stoned and thick-fleshed, with fragrant, sweet juice.\nHP+450
+8328	宮廷の秘方に従い、貴重な薬材を集めて煉り上げた、傷薬の極上品。\n体力+1000	Compounded from precious herbs to a secret palace formula; the very finest of healing medicines.\nHP+1000
+8329	山あいの野に生え、多くは鼠が食べていたが、人に見つけられて平地に移し植えられた。\n真気+36	It grows wild in the hills, where it was mostly eaten by mice, until people found it and transplanted it to the lowlands.\nMP+36
+8330	心を落ち着け、頭をすっきりさせる丸薬。\n真気+50	A pill that calms the mind and clears the head.\nMP+50
+8331	蛟龍のよだれに潤されて育ち、体を補い気を益する薬効がある。\n真気+110	It grows where watered by the spittle of flood dragons, and has the power to fortify the body and replenish qi.\nMP+110
+8332	枯れ木に寄生する茸の類で、俗に瑞草という。気を養い元気を培う霊験がある。\n真気+260	A fungus that grows on dead wood, commonly called the auspicious herb; it works wonders in nourishing qi and strengthening vitality.\nMP+260
+8333	白玉雪蓮の実。その形は珠のように丸く玉のように潤い、食べた者は真気が満ち、経脈がよく通る。\n真気+400	The seed of the white jade snow lotus, round as a pearl and smooth as jade; one who eats it brims with qi, the meridians flowing freely.\nMP+400
+8334	観音菩薩の浄瓶の甘露水。人の世ではまず手に入らない仙界の聖薬。\n真気+700	Sweet dew from the pure vase of the Bodhisattva Guanyin; a sacred medicine of the immortal realm, all but unobtainable among mortals.\nMP+700
+8335	神仙広成子の、命を養い寿命を延ばす秘方。\n体力真気+440	The immortal Guangchengzi's secret formula for nurturing life and prolonging one's years.\nHP and MP+440
+8336	道を修める隠者が煉った丹薬。\n体力真気+250	An elixir refined by a hermit who cultivates the Way.\nHP and MP+250
+8337	火をつけると不思議な香りを放ち、体を離れた魂魄を体へ引き戻すことができる。\n体力10%回復	When lit it gives off a strange fragrance that can draw a departed soul back into its body.\nRestores 10% HP
+8338	蓮の灯で法を行って冥府の使いと掛け合い、死者の魂魄を贖い戻す。\n体力30%回復	With a rite of the lotus lantern one bargains with the bailiffs of the underworld and ransoms back the soul of the dead.\nRestores 30% HP
+8339	死者の罪業と業障を消し去り、死者を生き返らせる。\n体力50%回復	Wipes away the sins and karmic burdens of the dead and brings them back to life.\nRestores 50% HP
+8340	大量の貴重な秘薬を精錬して作られ、白骨に肉をつけ死者をも癒やす不思議な効き目がある。\n体力100%回復	Refined from a great quantity of precious secret medicines; it has the miraculous power to put flesh on bare bones and cure the dead.\nRestores 100% HP
+8341	天山の極寒の地に棲み、大きさはわずか銅銭ほど。\n武術最大値+2　防御最大値+2　霊力最大値+2	It lives in the bitter cold of the Tianshan mountains and is no bigger than a copper coin.\nMax Attack+2 Max Defense+2 Max Spirit+2
+8342	薬王神農氏が百草をなめて調べた時、最初に見つけた貴重な薬。\n霊力最大値+3	The precious medicine first discovered by Shennong, the King of Medicine, when he tasted the hundred herbs.\nMax Spirit+3
+8343	女神媧皇が石を煉って天を補った後に遺された五色の石。\n防御最大値+3	A five-colored stone left over after the goddess Nuwa smelted stones to mend the sky.\nMax Defense+3
+8344	八仙の石洞で採れる丹の鉱石。\n防御最大値+2	Cinnabar ore gathered in the stone grotto of the Eight Immortals.\nMax Defense+2
+8345	もち米に麦芽と甘い豆を加えて炊いた餅。屍毒を解くことができる。\n体力+25	A cake of sticky rice cooked with malt and sweet beans; it cures Corpse Poison.\nHP+25
+8346	米に麹を加えて醸したもの。赤毒を解くことができる。\n体力真気+15	Brewed from rice and yeast; it cures Red Poison.\nHP and MP+15
+8347	精を得た蟾蜍の妖怪の内丹。身につければ百毒も侵すことができない。	The inner core of a toad that became a demon; whoever wears it is immune to every poison.
+8348	しびれ薬に火をつけて迷いの香を放ち、敵を五ターン眠らせることができる。	A knockout drug that, when lit, gives off a stupefying scent and puts the enemy to sleep for five turns.
+8349	七大毒蠱の一つ。毒を受けると、しばらく潜んだ後に発作を起こし、毒性はきわめて激しい。\n解毒薬：孔雀胆\n致命の薬引き：血海棠	One of the Seven Great Poison Gu. Once poisoned, the victim suffers the attack after a short latent spell, and the poison is extremely violent.\nAntidote: Peacock Gall\nFatal catalyst: Blood Begonia
+8350	七大毒蠱の一つ。毒を受けると毎ターン体力を失い、死ぬまで止まらない。\n解毒薬：三屍蠱\n致命の薬引き：金蚕蠱	One of the Seven Great Poison Gu. The poisoned lose HP every turn, without end until death.\nAntidote: 3-Corpse Gu\nFatal catalyst: Gold Silkworm
+8351	七大毒蠱の一つ。毒を受けると毎ターン体力を失い、死ぬまで止まらない。\n解毒薬：断腸草\n致命の薬引き：三屍蠱	One of the Seven Great Poison Gu. The poisoned lose HP every turn, without end until death.\nAntidote: Gut-Rend Herb\nFatal catalyst: 3-Corpse Gu
+8352	七大毒蠱の一つ。毒を受けると毎ターン体力を失い、死ぬまで止まらない。\n解毒薬：血海棠　致命の薬引き：孔雀胆	One of the Seven Great Poison Gu. The poisoned lose HP every turn, without end until death.\nAntidote: Blood Begonia  Fatal catalyst: Peacock Gall
+8353	七大毒蠱の一つ。毒を受けると毎ターン体力を失い、死ぬまで止まらない。\n解毒薬：鶴頂紅\n致命の薬引き：断腸草	One of the Seven Great Poison Gu. The poisoned lose HP every turn, without end until death.\nAntidote: Crane Crest\nFatal catalyst: Gut-Rend Herb
+8354	七大毒蠱の一つ。毒を受けると毎ターン体力を失い、死ぬまで止まらない。\n解毒薬：金蚕蠱\n致命の薬引き：鶴頂紅	One of the Seven Great Poison Gu. The poisoned lose HP every turn, without end until death.\nAntidote: Gold Silkworm\nFatal catalyst: Crane Crest
+8355	七大毒蠱の一つ。毒を受けるとただちに発作を起こし、体力の半分を失う。	One of the Seven Great Poison Gu. The poison takes effect at once, draining half the victim's HP.
+8356	飲む前にすでに毒を受けていれば体力は全快するが、解毒はできない。毒を受けていない時に飲むと、即座に命を落とす。	If already poisoned when it is taken, it restores all HP but does not cure the poison; if not poisoned, the one who takes it dies on the spot.
+8357	棘のある甲虫のような姿。その体を握りつぶすと、立ちのぼる煙が味方の姿を隠してくれる。\n全員が三ターン姿を消す。	It looks like a spiny beetle. Crush its body and the smoke it gives off helps your side conceal itself.\nWhole party invisible for three turns.
+8358	分泌する毒液が人の脳を侵し、敵味方の区別をつかなくさせ、五ターン混乱させる。	The venom it secretes affects the brain, leaving the victim unable to tell friend from foe; confused for five turns.
+8359	湘西や雲貴の巫師が屍を操るのに用いる。死者に九ターンのあいだ攻撃を続けさせることができる。	Used by the sorcerers of western Hunan, Yunnan and Guizhou to control corpses; it lets the dead go on attacking for nine turns.
+8360	珍しい薬を与えて育てた雌の蠱。\n全員の体力+250	A female Gu raised on rare medicines.\nWhole party HP+250
+8361	血を吸って生きる毒蠱。飲んだ者の体力を完全に回復させる。	A poison Gu that lives by sucking blood; it fully restores the HP of whoever swallows it.
+8362	穢れを除き、病を払い、身を護るなどの働きがあり、薬にもなる。\n戦闘中に食べると毒回避率+30%	It dispels filth, drives out sickness and protects the body, and can be used in medicine.\nEaten in battle: Poison Resist+30%
+8363	美容によく、消化を助ける。\n体力真気+20	Good for the complexion and an aid to digestion.\nHP and MP+20
+8364	炭火でいぶし焼きにした、たれ漬けの豚肉。\n体力真気+30	Sauce-marinated pork roasted and smoked over charcoal.\nHP and MP+30
+8365	塩で漬け込んだ豚肉。\n体力+85	Pork cured in salt.\nHP+85
+8366	悟りを得た高僧の亡骸を火葬した後に、珠のように固まって残ったもの。\n最大真気+3	The bead-like relics that form when the body of an enlightened monk is cremated.\nMax MP+3
+8367	墨玉菩提樹の種。\n最大真気+5	The seed of the black jade bodhi tree.\nMax MP+5
+8368	銀杏の木に実る白い核果。\n最大体力+3	The white stone fruit borne by the ginkgo tree.\nMax HP+3
+8369	蜜蜂が作る最上の蜜。\n体力真気+150	The finest honey that bees make.\nHP and MP+150
+8370	竹串にすももを刺して麦芽飴をからめたもの。瓢箪のような形なので「糖葫蘆」と呼ばれる。\n体力真気+22	Plums skewered on a bamboo stick and coated in malt sugar; shaped like a gourd, hence the name 'sugar gourd'.\nHP and MP+22
+8371	女媧神の強大な霊力を宿す符。\n全員の体力+300	A charm imbued with the mighty spiritual power of the goddess Nuwa.\nWhole party HP+300
+8372	使うと、金の鐘と鉄の覆いに身を護られたようになる。\n七ターン防御上昇	Once used, it is as if a golden bell and an iron shell guarded the body.\nRaises Defense for seven turns
+8373	毒を持つ黒褐色の野生の蔓。赤毒、屍毒、瘴毒、毒糸を解くことができる。\n体力-30	A poisonous dark brown wild vine; it cures Red Poison, Corpse Poison, Miasma Poison and Poison Silk.\nHP-30
+8374	蠱の中の王。月夜には金色の燐光を放ち、飲めば修行が上がる。	The king of all Gu. It gives off a golden phosphorescence on moonlit nights, and swallowing it raises one's Level.
+8375	安くてありふれた食べ物。\n体力真気+10	A cheap and common food.\nHP and MP+10
+8376	鶏卵をゆでて、茶葉で味をしみ込ませたもの。安くておいしい食べ物。\n体力真気+15	An egg boiled and then steeped in tea for flavor. A cheap and tasty food.\nHP and MP+15
+8377	にんにく、雄黄、よもぎ、檀香などを混ぜて煉ったもの。火をつけると魔物の嫌う匂いを放ち、魔物を寄せつけない。	Blended from garlic, realgar, mugwort, sandalwood and more. When lit it gives off a smell that monsters detest, so they dare not come near.
+8378	生き血、内臓、肉桂などを煉ったもの。火をつけると魔物を引き寄せる香りを放つ。	Made from fresh blood, entrails, cinnamon and more. When lit it gives off a scent that attracts monsters.
+8379	生の牛革で作った七尺の軟鞭。\n武術+20　素早さ+20	A seven-foot whip of raw oxhide.\nAttack+20 Speed+20
+8380	鉄の節と鉄の輪をつないだ九節の軟鞭。\n武術+66　素早さ+33	A nine-section whip of iron links and iron rings.\nAttack+66 Speed+33
+8381	蛇の皮に金の糸をより合わせて編んだ九尺の軟鞭。\n武術+99　素早さ+60	A nine-foot whip braided from snakeskin twisted with gold thread.\nAttack+99 Speed+60
+8382	苗族の戦士が使い慣れた佩刀。\n武術+70　素早さ+32	The saber habitually carried by Miao warriors.\nAttack+70 Speed+32
+8383	苗刀の一種。切っ先が鉤のように反り返り、「勾魂刀」とも呼ばれる。\n武術+90　素早さ+26　幸運-9	A kind of Miao saber with a hooked tip; also called the 'Soul-Hooking Saber'.\nAttack+90 Speed+26 Luck-9
+8384	敵全体を続けて二回攻撃できる。魔族の妖しい武器と伝えられる。\n武術+98　素早さ+98　幸運+98	It can strike all enemies twice in a row; said to be an uncanny weapon of the demon race.\nAttack+98 Speed+98 Luck+98
+8385	苗族拝月教に伝わる鎮教の宝。\n武術+132　霊力+55　防御+29　素早さ+45　幸運+36	The guardian treasure of the Miao Moon-Worship Cult.\nAttack+132 Spirit+55 Defense+29 Speed+45 Luck+36
+8386	妖怪を収めて丹を煉る。霊葫呪と合わせて使う必要がある。	Captures demons and refines them into elixirs; must be used together with Spirit Gourd.
+8387	長安の豪商の荷物。	The luggage of a rich merchant from Chang'an.
+8388	兵士に託された恋文。	A love letter entrusted to you by a soldier.
+8389	侍女に託された玉佩。	A jade pendant entrusted to you by a maid.
+8390	隠龍窟の奥の洞窟にある石の扉を開ける鍵。	The key that opens the stone door to the rear cavern of Hidden Dragon Cave.
+8391	書中仙がこの書に宿っている。	The Book Immortal dwells within this book.
+8392	バナナが好きなのは誰？	Who likes to eat bananas?
+8393	千年を生きた毒蛟の胆。毒をもって毒を制し、天下のあらゆる毒を解くことができる。毒を受けていない時に毒龍胆を食べると命を落とす。	The gall of a thousand-year-old venomous flood dragon. Fighting poison with poison, it cures every poison under heaven; but eat Dragon Gall when not poisoned and you die.
+8394	ある人から預かった証の品。	A token entrusted to you by a certain someone.
+8395	李逍遥の両親が遺した武芸の秘伝書。	The secret martial arts manual left behind by Li Xiaoyao's parents.
+8396	人を乗せて水面に浮かぶことのできる草のむしろ。	A mat of reeds that can carry a person afloat on the water.
+8397	ほんの少しの雄黄を酒に振り入れたもの。端午の節句にこの酒を飲む習わしがある。赤毒、瘴毒を解くことができる。	A pinch of realgar sprinkled into wine; by custom it is drunk at the Dragon Boat Festival. It cures Red Poison and Miasma Poison.
+8398	銀の針で肉を刺し、痛みで正気を呼び覚ます。金縛り、眠り、混乱を解くことができる。\n体力-9	Pricking the flesh with a silver needle, it rouses the wits through pain; it cures Hold, Sleep and Confuse.\nHP-9
+8399	おばさんが逍遥のためにまとめてくれた荷物。	The luggage Auntie packed for Xiaoyao.
+8400	仙霊島の石像を打ち砕くための法宝。	A magic treasure for smashing the stone statues on Xianling Isle.
+8401	水月宮で最も貴重な仙丹霊薬。	The most precious miracle elixir of Shuiyue Palace.
+8402	水で薄めた酒。	Watered-down wine.
+8403	借り物。ちゃんと返すこと！	It's borrowed. Remember to give it back!
+8404	猟師が仕掛けた鹿捕り用の道具。	A device set by a hunter for catching deer.
+8405	韓家の薬屋に代々伝わる婦人のための良薬。	A fine women's remedy handed down through the generations at the Han family apothecary.
+8406	毒蛇の卵、毒蠍の卵、毒蟾の卵、蜘蛛の卵、ムカデの卵を煉って蠱にすることができる。	Refines Viper Eggs, Scorpion Eggs, Toad Eggs, Spider Eggs and Centipede Eggs into Gu.
+8407	観音の聖水で書かれた霊符。\n体力+150	A spirit charm written in the holy water of Guanyin.\nHP+150
+8408	病を払い、邪を防ぐ法力がある。赤毒、屍毒、瘴毒を解くことができる。	It has the power to drive out sickness and ward off evil; it cures Red Poison, Corpse Poison and Miasma Poison.
+8409	心を鎮め、邪を払う霊験がある。混乱、金縛り、眠り、封印を解くことができる。	It has the power to calm the mind and drive off evil; it cures Confuse, Hold, Sleep and Seal.
+8410	もち稲の米。粘り気に富み、屍毒を解くことができる。	The grain of glutinous rice, rich in stickiness; it cures Corpse Poison.
+8411	海水を煮つめるか天日に干して作る。味つけに使い、時には毒を解くこともできる。	Made by boiling down sea water or drying it in the sun; used for seasoning, and it can sometimes cure poison.
+8412	蝋で作った、火をともして明かりにするもの。	A thing made of wax that is lit to give light.
+8413	黄ばんだ白紙の符紙。	A yellowed sheet of blank charm paper.
+8414	檀の香料を含んだ香の一種。火をつけて衣や部屋にたきしめ、悪い気を追い払う。	A kind of incense containing sandalwood; it is burned to perfume clothes and rooms and to drive out foul airs.
+8415	天然に産する鉱物。塊状で色は黄色く、赤毒を解くことができる。	A naturally occurring mineral, lumpy and yellow; it cures Red Poison.
+8416	水草の一種。葉は剣のように細長く、赤毒、屍毒、瘴毒、毒糸を解くことができる。	A water plant with long, narrow leaves like swords; it cures Red Poison, Corpse Poison, Miasma Poison and Poison Silk.
+8417	雑じり毛が一本もない真っ黒な犬の血。\n四ターン封印	The blood of a pure black dog without a single hair of another color.\nSeals for four turns
+8418	屍毒に染まった腐った肉の塊。\n毒性：屍毒	A lump of rotting flesh tainted with corpse poison.\nPoison: Corpse Poison
+8419	蠱を煉る材料。\n毒性：赤毒	An ingredient for refining Gu.\nPoison: Red Poison
+8420	蠱を煉る材料。\n毒性：赤毒	An ingredient for refining Gu.\nPoison: Red Poison
+8421	蠱を煉る材料。\n毒性：赤毒	An ingredient for refining Gu.\nPoison: Red Poison
+8422	蠱を煉る材料。\n毒性：赤毒	An ingredient for refining Gu.\nPoison: Red Poison
+8423	蠱を煉る材料。\n毒性：赤毒	An ingredient for refining Gu.\nPoison: Red Poison
+8424	紫の葉に小さな白い花。濃い香りを放ち、その香りを嗅ぐと酒に酔ったようになる。\n四ターン金縛り	Purple leaves and small white flowers. It gives off a rich fragrance, and whoever smells it becomes as if drunk on wine.\nHold for four turns
+8425	食べた者は幻覚を起こし、敵味方の区別がつかなくなる。\n四ターン混乱	Whoever eats it suffers hallucinations and cannot tell friend from foe.\nConfuse for four turns
+8426	蝮の毒のよだれ。\n毒性：瘴毒	The venomous spittle of a pit viper.\nPoison: Miasma Poison
+8427	巫師が術を使うのに必要な材料。	An ingredient sorcerers need to work their spells.
+8428	引路蜂の後についていけば、迷宮の入口に戻ることができる。	Follow the Guide Bee and you can return to the start of the maze.
+8429	薬の材料。	A medicinal ingredient.
+8430	薬の材料。	A medicinal ingredient.
+8431	薬の材料。	A medicinal ingredient.
+8432	薬の材料。	A medicinal ingredient.
+8433	薬の材料。	A medicinal ingredient.
+8434	梅の花の形をした暗器。\n敵の体力-90	A hidden weapon shaped like a plum blossom.\nEnemy HP-90
+8435	袖の中に隠し持つ飛剣。\n敵の体力-170	A throwing blade concealed in the sleeve.\nEnemy HP-170
+8436	精鉄で鍛えた長さ三寸の鉄の針。とても鋭い暗器。\n敵の体力-250	A three-inch iron spike forged from fine steel; a very sharp hidden weapon.\nEnemy HP-250
+8437	牛の毛のように細く、気づかれぬうちに人を傷つける。\n敵の体力-400	As fine as an ox hair, it wounds without ever being seen.\nEnemy HP-400
+8438	赤い鉄の球。周りに鋭い刃が取りつけてある。\n敵全体の体力-300	A red iron ball ringed with sharp blades.\nAll enemies HP-300
+8439	火薬を詰めた鉄の珠。投げてぶつかると破裂して人を傷つける。\n敵の体力-135	An iron bead packed with gunpowder; thrown, it bursts on impact and wounds.\nEnemy HP-135
+8440	蝮の毒から煉った細かい砂。敵全体を瘴毒に冒すことができる。\n体力-55	Fine sand refined from pit viper venom; it afflicts all enemies with Miasma Poison.\nHP-55
+8441	赤尾蠍を丸ごとすりつぶした粉。敵全体を赤毒に冒すことができる。	A powder ground from whole red-tailed scorpions; it afflicts all enemies with Red Poison.
+8442	鉄の鎖に鋼の鉤爪。末端には霊蠱の蚕の糸が結ばれ、敵の体力を180吸い取ることができる。	A steel claw on an iron chain, its end tied with the silk of a Spirit Gu; it drains 180 HP from an enemy.
+8443	千年を生きた蜘蛛の毒糸。\n毒性：毒糸	The poisonous silk of a thousand-year-old spider.\nPoison: Poison Silk
+8444	宿主に寄生して霊気を吸い取る。九ターン後、霊蠱に煉成できる。	It lives on its host and feeds on spiritual energy; after nine turns it can be refined into a Spirit Gu.
+8445	宿主に寄生して血を吸い取る。九ターン後、赤血蚕に煉成できる。	It lives on its host and feeds on blood; after nine turns it can be refined into a Blood Silkworm.
+8446	茅山道士が妖怪を退治するのに使う符。	A charm that Maoshan Taoists use against demons.
+8447	風系の仙術を起こす符。	A charm that produces wind magic.
+8448	雷系の仙術を起こす符。	A charm that produces thunder magic.
+8449	氷系の仙術を起こす符。	A charm that produces ice magic.
+8450	火系の仙術を起こす符。	A charm that produces fire magic.
+8451	雪山の氷洞に産する氷蚕から育てた蠱虫。攻撃用の道具として使える。	A Gu worm bred from the ice silkworms of the snow mountain's ice caves; it can be used as an attack item.
+8452	麒麟の炎洞に産する火蚕から育てた蠱虫。攻撃用の道具として使える。	A Gu worm bred from the fire silkworms of the Qilin's flame cave; it can be used as an attack item.
+8453	土系の仙術を起こす符。	A charm that produces earth magic.
+8454	蜜蜂の巣。敵に投げつけることができる。	A bees' nest. You can throw it at enemies.
+8455	傷口の血に触れると、たちまち腐りただれる。傷を負った者が浴びれば即死する。	On touching the blood of a wound it corrodes and festers at once; the wounded die instantly if it touches them.
+8456	あらかじめ法力を蠱虫の体内に注ぎ込んでおき、敵に投げつけると激しい爆発を起こす。	Magic power is poured into the Gu worm's body beforehand; thrown at an enemy, it sets off a violent explosion.
+8457	呪術をかけた粗い麻縄。妖怪を身動きできなくさせ、五ターン縛りつける。	A coarse hemp rope laid with a spell; it leaves demons unable to move, binding them for five turns.
+8458	青い小さな花。ほのかな香りを放ち、その香りを嗅ぐとすっかり我を忘れ、三ターン眠ってしまう。	A small blue flower with a faint fragrance; whoever smells it forgets themselves utterly and sleeps for three turns.
+8459	食妖虫から霊蠱を一匹煉成した	Refined one Spirit Gu
+8460	碧血蚕から赤血蚕を一匹煉成した	Refined one Blood Silkworm
+8461	みんな下がって．．この人はあたしの友達なんだから、勝手なことしちゃだめだよ！	All of you, stand down... He's my friend. Don't you dare try anything!
+8462	キィ～　グゥ．．ギャ．．	Skree... gu... gah...
+8463	こ…この小さな妖怪たち、本当に君の言うことを聞くのか？	Th-these little demons really do what you tell them?
+8464	うん．．この子たちはあたしのお師匠様が飼ってるんだ。ここで谷の入口を守る役目だから、知らない人を見ると襲いかかっちゃうの。ほんとは．．ふだんはとってもおとなしいんだよ	Mm-hm... My master raises them. Their job is to guard the entrance to the valley, so they attack whenever they see a stranger. Really... they're very well-behaved most of the time.
+8465	ヘッ．．ヘッ．．ヘッ．．\nまたうまそうな人間の肉が、向こうからやって来おったわい	Heh... heh... heh...\nMore sweet, tasty human flesh, delivered right to my door.
+8466	おや．．おや．．\nどうやら、そう簡単には食えそうにないのう．．	Oh... oh...\nLooks like this meal won't come so easily...
+8467	鼠児果を一つ拾った	Picked up a Mouse Berry
+8468	雄黄を一つ手に入れた	Got a Realgar
+8469	止血草を一本手に入れた	Obtained a Styptic Herb
+8470	蜂王蜜を手に入れた	Got Royal Jelly
+8471	蜂の巣を一つ手に入れた	Obtained a Beehive
+8472	孟婆湯を手に入れた	Got Mengpo Soup
+8473	お願いです．．どうかわたくしを信じてください。劉様が．．劉様がもうすぐ死んでしまいます	I beg you... please believe me. Young Master Liu... Young Master Liu is about to die.
+8474	どう見たって、妖怪のあんたが彼を殺そうとしてるんじゃない。それでいい人のふりをしようだなんて！	It's plain that you, a demon, are the one trying to kill him, and you still think you can pass yourself off as a good person!
+8475	誤解です。旦那様は纏魂糸にかかっているのです。わたくしがこうしているのは、あの方をお救いするためなのです	You misunderstand. My husband has been struck with Soulbind Silk. I am doing this in order to save him.
+8476	人に害をなすつもりなら、まずあたしを倒してからにしなさい	If you mean to harm anyone, you'll have to get past me first.
+8477	申し訳ありません．．皆様がわたくしを信じてくださらないのなら、やむを得ません、ご無礼をいたします	Forgive me... Since none of you will believe me, I have no choice but to offend you.
+8478	どこの妖怪だ、こんな所で好き勝手しやがって。この大侠様に会ったからには、おとなしくお縄につけ！	What manner of fiend dares run wild here? You stand before a great hero, so give yourself up quietly!
+8479	李兄さん、ちょっと待って．．．	Brother Li, wait a moment...
+8480	．．．．．．．　．　．	.......  .  .
+8481	半人の蛇妖は壁を破って逃げた	Snake demon broke out and fled
+8482	$00	$00
+8483	勝敗は兵家の常なり。\n大侠よ、もう一度やり直されよ	Victory and defeat are a warrior's daily lot.\nPray try again, hero.
+8484	$02	$02
+8485	霊児！　やっちまおうぜ．．このごろつきどもに、ちょっと思い知らせてやる	Ling'er! Let's get them... and teach these thugs a lesson.
+8486	でも…おば様から、揉め事を起こさないようにと言いつけられています．．	But... Auntie told us not to go stirring up trouble...
+8487	こういうのは義侠の行いって言うんだ、揉め事じゃない	This is called upholding justice, not stirring up trouble.
+8488	それは．．でも…	Well... but...
+8489	ほう…小僧、貴様、なかなか爪を隠しておったな。手下から聞いたぞ。肝が太く、命知らずで、我ら拝月教に楯突こうという者．．それが貴様か？	Oh? So you've been hiding your talents, boy. My men tell me there's someone bold as brass, with no care for his own life, who means to cross our Moon-Worship Cult... and that's you?
+8490	お互い様でして…手前も、お客さんが山犬や狼みたいな心根で、か弱い娘をさらうような江湖のくずだとは、思ってもみませんでしたよ	Likewise, sir. I never imagined that an honored guest like you would turn out to be the scum of the martial world, with the heart of a jackal and a wolf, carrying off helpless girls.
+8491	ぺっ！貴様、自分が何をしているか分かっているのか？	Pah! Do you have any idea what you are doing?
+8492	我らは苗疆拝月教の使者。このたび中原へ来たのは、我が苗疆数百万の苗の民の興亡と存続に関わる重大な任務のためだ。これ以上邪魔立てするなら、我が一族すべてを敵に回すことになるぞ！	We are envoys of the Moon-Worship Cult of the Miao lands. We have come to the Central Plains on a mission of the gravest importance, one on which the rise or fall, the very survival, of millions of our Miao people depends. Interfere again and you make yourself the enemy of my entire people!
+8493	俺に分からない大口を叩くなよ。強盗をやるやつが、言い訳の一つも作れないわけないだろ？	Spare me the big talk I can't follow. What robber can't cook up an excuse?
+8494	俺は自分の見たことしか知らねえ．．お前らは人を殺して暴れ、娘をさらった。へっ、俺に出くわしたのが、お前らの報いってやつだ！	I only go by what I see... you murdered people and carried off a girl. Heh, running into me is your just deserts!
+8495	．．．．姫様！\nどうか我らと共に苗疆へお戻りください。我らは巫王の命を受け、いかなる代償を払ってでも必ずあなた様を捜し出し、お連れせよと言われているのです	....Your Highness!\nPlease return with us to the Miao lands. By order of the Witch King, we are to find you and bring you back, whatever the cost.
+8496	いやです！あなたたちはおばあ様を殺しました。おばあ様の命を返して！	No! You killed Granny. Give me back my Granny's life!
+8497	逆臣賊子は、誰であろうと討ち取ってよいのです！あの老いぼれ妖婆は、あなた様を宮中から盗み出して中原へ逃げ、あなた様と父王様を十年も引き裂いた大逆人ですぞ！そのうえあなた様を水月宮の門下に弟子入りさせ、漢人の邪道外道の術まで学ばせるとは。ご存じですか、この十年というもの．．	Traitors and rebels may be struck down by anyone! That old hag stole you out of the palace and fled to the Central Plains, keeping you and your royal father apart for ten years. She was an arch-traitor! And she even had you apprenticed to Shuiyue Palace to learn the heretical sorcery of the Han. Do you know that for these ten years...
+8498	でたらめです！　わ．．わたしにお父様はいません。おばあ様は、お父様はとうに亡くなったと言っていました	You're lying! I... I have no father. Granny said my father died long ago.
+8499	あなた様の実の父君は巫王、苗疆の各部族を統べる首領です	Your true father is the Witch King, the leader who rules all the tribes of the Miao lands.
+8500	王宮から連れ去られた時、あなた様はまだ六歳でした。あの頃は幼かったゆえ、お分かりにならなかったのです	You were only six when you were taken from the palace. You were too young then to understand.
+8501	嘘です…あなたたちは嘘つきです！もう顔も見たくありません、あっちへ行って	Liars... you're lying to me! I never want to see you again. Go away!
+8502	おい！姫様が失せろって言ってるのが聞こえないのか？	Hey! The princess told you to get lost. Didn't you hear?
+8503	小僧！貴様の口を出す場ではない。まだ邪魔立てする気なら、貴様もろとも斬る！	Stinking brat! You have no say here. Dare to obstruct us again and I'll kill you too!
+8504	いやです！あなたたちの言うことなんて信じません。わたしは逍遥お兄ちゃんと一緒に、お母様を捜しに行くんです	No! I won't believe a word you say. I'm going with Brother Xiaoyao to find my mother.
+8505	聞こえたか？霊児は行かないって言ったら行かないんだ。分かったらさっさと失せな。さもないと俺が叩き出すぜ	Did you hear that? When Ling'er says she's not going with you, she's not going. If you know what's good for you, get lost, or I'll throw you out myself.
+8506	よかろう…力ずくでも恨むなよ！	Very well... don't blame us for using force!
+8507	どきなさい！！	Out of my way!!
+8508	ひどすぎるぞ！いくら自分の下僕だからって、人の命を虫けらみたいに扱っていいわけないだろ！	That's going too far! Even if they are your servants, you can't treat human lives like dirt!
+8509	あたしはやりたいようにやるの。あんたの知ったことじゃないわ！	I'll do as I please. It's none of your business!
+8510	あいにくだな！この李逍遥が生まれてこのかた一番嫌いなのは、弱い者いじめをするやつだ。俺に出くわしたからには、権勢をかさに着て人をいじめるなんて許さないぜ！	Too bad for you! If there's one thing I, Li Xiaoyao, have hated all my life, it's people who bully the weak. Now that I've run into you, I won't let you throw your weight around!
+8511	いいわ！口もきけなくなるまで叩きのめしてあげる！	Fine! I'll beat you till you can't say another word!
+8512	ちょっと．．こそ泥！	Hey... you little thief!
+8513	このあたしは、怪我人をいじめる気はないの。あたしに三回、音を立てて叩頭すれば、許してあげてもいいわよ！	I have no wish to bully an injured man. Just knock your head on the ground to me three times, good and loud, and I may let you off!
+8514	その心配はいらないぜ。　これくらいのかすり傷、この若様は気にも留めちゃいない。遠慮なくかかってきな	No need to worry about that. A scratch like this is nothing to a young master like me. Come at me with all you've got.
+8515	いいわ…　自分で言い出したことよ！\n負けても…怪我人をいじめたなんて言わないでよね	Fine... you asked for it!\nWhen you lose... don't blame me for taking advantage of your injury.
+8516	お互い様だ…　そっちこそ負けても．．この若様が女の子をいじめたなんて言うなよ！	Same to you... and when you lose... don't go saying this young master bullied a girl!
+8517	ふん、かかってきなさい！~10	Hmph! Bring it on!~10
+8518	あら！　色男さん．．なかなかやるじゃない。残念だけど、あたし、もう遊んであげる暇はないの	Hey! Handsome... not bad moves. A pity I've no more time to play with you.
+8520	あたしを捕まえる？　無理に決まってるでしょ！	Catch me? Not a chance!
+8522	早く夢慈お姉さんを放してください！	Let Sister Mengci go at once!
+8524	姫様、ご安心ください。我らの狙いは韓のお嬢さんではありません。姫様さえ我らと共に来てくだされば、ほかの誰にも決して手荒な真似はいたしません	Rest assured, Your Highness. Miss Han is not our aim. If only Your Highness comes with us, we will not trouble anyone else.
+8526	夢慈お姉さんをさらったのは、わたしたちをおびき寄せるためだったのですか？	You seized Sister Mengci just to lure us here?
+8528	大事のために、少々手立てを用いました。どうかお許しください．．	For the sake of a great cause, we resorted to a small stratagem. I beg Your Highness's pardon...
+8530	諦めるんだな！\n霊児はお前らについていったりしない	Give it up!\nLing'er isn't going with you.
+8532	ほう？　穏やかな手が通じぬなら、力ずくでも構わんのだぞ！	Oh? If the gentle way won't do, we can just as well use force!
+8534	来いよ！　怖がるとでも思ったか？	Come on, then! You think I'm scared of you?
+8536	ふん！　命知らずの小僧め	Hmph! Reckless brat.
+8538	数を頼めば、わしに勝てるなどと思うな	Don't think your numbers alone will let you beat me.
+8540	まあまあ．．石長老、あなたの神功がいくら天下無双でも、結局は寄る年波には勝てないと嘆くことになるでしょうね	Now, now... Elder Shi, your arts may be peerless, but in the end even you must sigh that time spares no one.
+8542	ふん！　たとえ老夫がお前にかなわずとも、刺し違えてでも道連れにしてくれるわ	Hmph! Even if this old man is no match for you, I'll fight until we both go down together.
+8544	本当の実力を見せてみよ！さもなくば．．わしの剣に倒れても、恨むでないぞ	Show me your true skill! Otherwise... if you die on my sword, do not blame me.
+8546	行くぞ、気をつけよ！	Watch yourself!
+8548	よし…　第二の剣じゃ！	Good... the second stroke!
+8550	最後の一手じゃ…よく見ておれ！	The final move... watch closely!
+8552	身の程知らずめ！	You don't know your own limits, fool!
+8554	おのれ！　お前たちに目にもの見せてくれる！	Curse you! I'll show you what I can really do!
+8556	わ…は…は…もう耐えられまい！\nこっちにはもっとすごい技があるのだ	Wa-ha-ha! Can't take any more, can you?\nI have even deadlier moves than that.
+8558	死ね！	Die!
+8559	この腐れ妖怪め、恩を仇で返しやがって！	You stinking demon, repaying kindness with treachery!
+8560	我ら鬼族が人間に恩を返すやり方はな、相手の体を食らって、我らの仲間にしてやることなのだ！	The way we of the ghost tribe repay humans is to eat their bodies and make them our companions!
+8562	待て…！	Wait...!
+8564	霊児が何の罪を犯したっていうんだ？\nなんでこんなに彼女を苦しめるんだ！	What crime has Ling'er committed?\nWhy do you persecute her like this!
+8566	この蛇女は、きわめて恐るべき妖力を秘めておる。これを取り除かず、ひとたび目覚めるに任せれば、必ずや人の世に災いをもたらす！	This serpent woman harbors a latent demonic power of the most fearsome kind. Unless she is rooted out, once it is left to awaken it will surely bring calamity upon the mortal world!
+8568	妖怪だからって何だっていうんだ。あの子は誰一人傷つけたことなんかないぞ！	So what if she's a demon? She has never harmed a single soul!
+8570	ふん！幼い虎がおとなしくとも、将来、人を食らう猛虎にならぬと誰が請け合えよう？	Hmph! A tiger cub may be tame, but who can vouch that it will not one day become a man-eating beast?
+8571	我はこの塔の鎮守を命じられた身。魔族の禍根を斬り除くは我が職責であり天命、断じて容赦はせぬ！	I am charged with guarding this tower. To cut out the root of the demon race's evil is my duty and my heaven-appointed task. There will be no mercy!
+8573	ふざけるな！　神だからって何だ。腕が六本に目が三つ、そのツラは妖怪よりよっぽど妖怪じゃないか	Rubbish! So what if you're a god? Six arms, three eyes... with a face like that you look more like a demon than any demon does.
+8574	霊児が生まれつき霊力が強いのは、あの子の福ってもんだ。お前らが妬むことか！？　お前はどうなんだ…　お前だって法力は底なしだろ。なんでまず自分を殺さないんだ？	If Ling'er was born with great spiritual power, that's her good fortune. What are you all so jealous of!? And what about you... isn't your own power boundless? Why don't you kill yourself first?
+8576	無知なる愚民め！我は仙界の神明、かような下等の山精水怪とは違うのだ	Ignorant fool! I am a deity of the immortal realm, nothing like these lowly spirits of hill and stream.
+8577	汝ら、悔い改めよ。妖魔と与して天に逆らうでない！　さもなくば、もろともに煉獄へ落とし、永劫に劫火の苦しみを受けさせてくれよう！	Turn back while you may. Do not consort with demons and defy the will of Heaven! Otherwise I shall cast you all into purgatory together, to suffer the fires of doom for all eternity!
+8579	わたしの母は、女媧氏の直系の末裔です。この身は妖であっても、心は魔ではありません。それだけのことで、どうしてわたしに罪を着せられるのですか！	My mother is a direct descendant of the line of Nuwa. My body may be that of a demon, but my heart is no fiend's. How can you condemn me for that alone!
+8581	女媧？　西天の如来の御許にも、天界の神仏の中にも、そのような名の者は列しておらぬ	Nuwa? Neither beneath the throne of the Buddha of the Western Heaven nor among the gods and buddhas of the celestial realm is there any such figure.
+8582	汝の祖先など…南蛮の苗の民の巫女が崇める聖霊にすぎぬ。今や人の世はすでに深く我が仏の教化を受けておる。邪道外道に、もはや身を置く場所などあろうはずもない！\n覚悟せよ！！	Your ancestor... is nothing more than a holy spirit worshipped by the witches of the southern barbarian Miao. The mortal world today has long since received the teaching of our Buddha; there is no longer any place for heretical ways!\nPrepare yourself!!
+8584	$06天がわたしに常ならぬ力を	$06Heaven gave me rare power,
+8585	授けたからには、わたしにはなすべきことがあるのです。ここで死ねば、天地に恥じるばかりか、わたしを崇める	so there are things I must do. If I die here, I would not only shame heaven and earth, but also fail
+8586	幾千万の苗の民を裏切ります~60	all the Miao who revere me~60
+8587	$04道は道、魔は魔、私は私！	$04Dao or demon, I am myself
+8588	$02運命は神仏にも決めさせぬ！~70	$02No god decides my fate!~70
+8589	"趙霊児の力が覚醒した"~45	"Zhao Ling'er's power awakens"~45
+8591	こいつと戦うぞ！~45	Let's take him on!~45
+8593	ええ！~45	Right!~45
+8595	ふん　邪魔外道の輩どもめ	Hmph. A pack of heretics and fiends.
+8596	永劫に成仏できぬと知れ！~50	Be damned for eternity!~50
+8598	愚かな人間め、地獄へ行け！~50	Foolish mortals! To hell!~50
+8599	羅漢袍を手に入れた	Got Arhat Robe
+8600	天師道袍を手に入れた	Got Exorcist Robe
+8601	菩提袈裟を手に入れた	Got Bodhi Cassock
+8602	蛇妖：	Snake Demon:
+8603	憎き人間どもめ…死ね！~45	Damned humans... die!~45
+8605	早く村長のおじちゃんを放して。それから…水霊珠も渡しなよ。でないとひどい目にあわせるよ！	Let the village chief go right now! And... hand over the Water Orb, or you'll be sorry!
+8607	どこの小童じゃ！？死にたいのか？\nこの山人のやることに手出しするとは！	Where did these brats come from!? Tired of living?\nYou dare meddle in this hermit's affairs!
+8609	ふん．．見かけによらず、お前たち小童もなかなかやりおるわい．．	Hmph... I wouldn't have guessed it, but you brats do have a trick or two...
+8610	こうなれば奥の手を出すか！~50	Time for my ultimate move!~50
+8611	傀儡虫を一匹手に入れた	Obtained a Puppet Bug
+8613	おい…　待てよ！\nなんで人を見るなり殴りかかるんだ？	Hey... wait!\nWhy do you attack people on sight?
+8615	こそこそとこんな所へ来て、何をしているの？	What are you doing sneaking around here?
+8617	俺？　ここは来ちゃいけないのか？	Me? Am I not allowed to come here?
+8619	来るのは構わないわ、帰るのは許さない！	You may come, but you may not leave!
+8621	私を倒すと？　ふん！\n戻ってあと百年修行するがよい	Defeat me? Hmph!\nGo back and train for another hundred years.
+8622	道具が足りず使えない	Not enough items to use it
+8623	お金が足りない、諦めるしかない	Not enough money. Never mind
+8624	失敗　効果がなかった	Failed. No effect
+8625	酒が足りず、酒神を召喚できない	Not enough wine to summon the Wine God
+8626	"酒神呪"の使用回数が尽きた	The "Wine God" chant has no uses left
+8627	風系の初級仙術。\n敵一体を攻撃する。	Basic wind magic.\nAttacks one enemy.
+8628	風系の中級仙術。\n敵全体を攻撃する。	Intermediate wind magic.\nAttacks all enemies.
+8629	風系の高級仙術。\n敵全体を攻撃する。	Advanced wind magic.\nAttacks all enemies.
+8630	風神を召喚する、最強の風系仙術。	Summons the Wind God; the mightiest wind magic.
+8631	雷系の初級仙術。\n敵一体を攻撃する。	Basic thunder magic.\nAttacks one enemy.
+8632	雷系の中級仙術。\n敵全体を攻撃する。	Intermediate thunder magic.\nAttacks all enemies.
+8633	雷系の高級仙術。\n敵一体を攻撃する。	Advanced thunder magic.\nAttacks one enemy.
+8634	雷系の高級仙術。\n敵全体を攻撃する。	Advanced thunder magic.\nAttacks all enemies.
+8635	雷神を召喚する、最強の雷系仙術。	Summons the Thunder God; the mightiest thunder magic.
+8636	氷系の初級仙術。\n敵一体を攻撃する。	Basic ice magic.\nAttacks one enemy.
+8637	氷系の中級仙術。\n敵全体を攻撃する。	Intermediate ice magic.\nAttacks all enemies.
+8638	氷系の高級仙術。\n敵全体を攻撃する。	Advanced ice magic.\nAttacks all enemies.
+8639	雪妖を召喚する、最強の氷系仙術。	Summons the Snow Demon; the mightiest ice magic.
+8640	火系の初級仙術。\n敵一体を攻撃する。	Basic fire magic.\nAttacks one enemy.
+8641	火系の中級仙術。\n敵全体を攻撃する。	Intermediate fire magic.\nAttacks all enemies.
+8642	火系の高級仙術。\n敵一体を攻撃する。	Advanced fire magic.\nAttacks one enemy.
+8643	火系の高級仙術。\n敵全体を攻撃する。	Advanced fire magic.\nAttacks all enemies.
+8644	火神を召喚する、最強の火系仙術。	Summons the Fire God; the mightiest fire magic.
+8645	土系の初級仙術。\n敵一体を攻撃する。	Basic earth magic.\nAttacks one enemy.
+8646	土系の中級仙術。\n敵全体を攻撃する。	Intermediate earth magic.\nAttacks all enemies.
+8647	土系の中級仙術。\n敵全体を攻撃する。	Intermediate earth magic.\nAttacks all enemies.
+8648	土系の高級仙術。\n敵全体を攻撃する。	Advanced earth magic.\nAttacks all enemies.
+8649	山神を召喚する、最強の土系仙術。	Summons the Mountain God; the mightiest earth magic.
+8650	蜀山派の入門剣法。\n敵一体を攻撃する。	The beginner's swordplay of the Mount Shu Sect.\nAttacks one enemy.
+8651	剣の光が雨のようにまっすぐ降り注ぎ、敵全体を攻撃する。	Sword beams fall straight down like rain, attacking all enemies.
+8652	人と剣が一つになり、身を鋭い剣と化して敵全体を攻撃する。	Swordsman and sword become one, the body itself turning into a keen blade that attacks all enemies.
+8653	剣神を召喚し、万の剣を一斉に飛ばす。	Summons the Sword God; ten thousand swords fly as one.
+8654	武神を召喚し、神刀で魔を斬る。	Summons the War God, whose divine blade cleaves demons.
+8655	蘇州の林家に代々伝わる武芸。\n敵全体を攻撃する。	The martial art handed down in the Lin family of Suzhou.\nAttacks all enemies.
+8656	人差し指に勁を集め、剛猛な気の光を放って敵一体を攻撃する。	Gathers force in the forefinger and looses a fierce ray of qi, attacking one enemy.
+8657	指を剣の代わりとし、地を裂く剣気を放って敵全体を攻撃する。	Using a finger in place of a sword, it looses an earth-splitting sword qi that attacks all enemies.
+8658	雄渾な気勁で群がる魔をなぎ払い、敵全体を攻撃する。	Sweeps away the demon horde with a mighty surge of qi, attacking all enemies.
+8659	笛の音で毒蜂を操り、敵全体を攻撃する。	Commands poison bees with the sound of a flute to attack all enemies.
+8660	人食いの毒蟻を操って敵一体を攻撃する。	Directs man-eating poison ants to attack one enemy.
+8661	味方一人の体力+75	One ally HP+75
+8662	味方一人の体力+220	One ally HP+220
+8663	味方一人の体力+500	One ally HP+500
+8664	味方全員の体力+300	All allies HP+300
+8665	味方一人の体力+150	One ally HP+150
+8666	味方一人を復活\n体力10%回復	Revives one ally\nRestores 10% HP
+8667	味方一人を復活\n体力30%回復	Revives one ally\nRestores 30% HP
+8668	金縛り、眠り、混乱、封印を解く	Cures Hold, Sleep, Confuse and Seal
+8669	赤毒、屍毒、瘴毒を解く。	Cures Red Poison, Corpse Poison and Miasma Poison.
+8670	使うと、金の鐘と鉄の覆いに身を護られたようになる。\n七ターン防御上昇。	Once used, it is as if a golden bell and an iron shell guarded the body.\nRaises Defense for seven turns.
+8671	女媧族の変身魔法。能力が大幅に上がる。	The transformation magic of the Nuwa clan; abilities rise greatly.
+8672	使うと、鉄の鎧と金の甲に身を護られたようになる。\n九ターン防御上昇。	Once used, it is as if iron mail and golden plate guarded the body.\nRaises Defense for nine turns.
+8673	七ターンのあいだ、武器による攻撃の威力が倍になる。	For seven turns, attacks made with a weapon have double the power.
+8674	茅山道士が妖怪を退治するのに使う符法。\n敵一体を攻撃する。	The sigil art that Maoshan Taoists use against demons.\nAttacks one enemy.
+8675	蠱を放って敵全体を攻撃する。蠱を持っている時だけ使える。	Releases Gu to attack all enemies; usable only when you have Gu.
+8676	敵の魂魄を吸い取る。かかった者は即死する。	Sucks out the enemy's soul; whoever it strikes dies at once.
+8677	酒神を召喚し、全身の真気を爆発させて敵を攻撃する。	Summons the Wine God and attacks the enemy with a burst of all one's qi.
+8678	妖怪の体力が四分の一を下回った時、紫金葫蘆に吸い込んで薬に煉ることができる。	When a demon's HP falls below one quarter, it can be drawn into the Violet Gourd and refined into medicine.
+8679	五ターンのあいだ、武器による攻撃を続けて二回繰り出せる。	For five turns, you can attack with a weapon twice in a row.
+8680	九ターンのあいだ、素早さが一時的に倍になる。	Speed is temporarily doubled for nine turns.
+8681	敵の持ち物やお金を盗み取る。	Steals an item or money from the enemy.
+8682	戦闘から逃げ出す。	Flees from battle.
+8683	蠱を仕掛けて敵一体を攻撃する。蠱を持っている時だけ使える。	Plants a Gu to attack one enemy; usable only when you have Gu.
+8684	お金を暗器にして敵一体を攻撃する。一度に五百文を使う。	Uses money as a hidden weapon to attack one enemy; spends five hundred coins each time.
+8685	銭の鏢で敵全体を攻撃する。大量のお金を消費する。	Attacks all enemies with coin darts; consumes a great deal of money.
+8686	赤毒、屍毒、瘴毒、毒糸、金縛り、眠り、混乱、封印を解く	Cures Red Poison, Corpse Poison, Miasma Poison, Poison Silk, Hold, Sleep, Confuse and Seal
+8687	敵一体を四ターン眠らせる。	Puts one enemy to sleep for four turns.
+8688	敵一体を四ターン混乱させる。	Confuses one enemy for four turns.
+8689	わたし…もう持ちません…~60	I... can't hold on...~60
+8690	霊児、大丈夫か？~60	Ling'er, are you okay?~60
+8691	わ．．わたしは大丈夫です．	I... I'm all right.
+8692	これくらいの傷…平気です~60	I can... bear this much~60
+8693	うわっ、ひどい怪我じゃないか！	Oh no, you're badly hurt!
+8694	まずは手当てが先だ~60	Let's heal you first~60
+8695	ありがとう．．逍遥お兄ちゃん	Thank you... Brother Xiaoyao.
+8696	お兄ちゃんも怪我してるのに~60	But you're hurt too...~60
+8697	逍遥お兄ちゃん．．ごめんなさい．．	Brother Xiaoyao... I'm sorry...
+8698	わたしが…足手まといで…~60	I... I'm a burden to you~60
+8699	何をばかなこと言ってるんだ！	Don't talk such nonsense!
+8700	お前を守るのは当然だろ~60	Of course I protect you~60
+8701	ねえ、怪我して立てないのよ~60	I'm hurt! I can't stand up~60
+8702	うう…痛い、もうやだ！~60	Ow... it hurts! I quit!~60
+8703	ちょっと、あたしもうだめよ！	Hey, I can't go on!
+8704	ちゃんと見てるの？~60	Are you even looking?~60
+8705	お嬢様、世話が焼けるなあ~60	My lady, you're a handful~60
+8706	うう…全然心配してくれない~60	Boo... you don't even care~60
+8707	な…何を言い出すんだよ~60	Wh... what are you saying~60
+8708	ちょっと、敵の相手ばっかりしてないでよ	Hey, don't just keep busy with the enemy!
+8709	あたしの怪我は無視なの？~60	I'm hurt! Don't you care?~60
+8710	俺が守る、早く手当てしろ~60	I'll cover you. Heal up!~60
+8711	逍遥兄ちゃん、もう限界だよ~60	Brother, Anu's worn out!~60
+8712	逍遥兄ちゃん、阿奴、怪我しちゃったよ～	Brother Xiaoyao, Anu's hurt, you know...
+8713	どうして構ってくれないの…~60	Why won't you help Anu...~60
+8714	うう…痛いよ…~60	Ow... it hurts...~60
+8715	阿奴…まだ頑張れるか？~60	Anu... can you hold on?~60
+8716	うう．．逍遥兄ちゃん、ごめんね	Sniff... Brother Xiaoyao, I'm sorry.
+8717	阿奴が足を引っぱって…~60	Anu's holding you back...~60
+8718	うわあっ！~60	Aaah!~60
+8719	李逍遥の怒りが燃え、体力回復	Li Xiaoyao's rage restores HP
+8720	この野郎！~60	Damn you!~60
+8721	李逍遥の闘志が燃え、真気回復	Li Xiaoyao's zeal restores MP
+8722	くそっ！~60	Damn it!~60
+8723	李逍遥が怒号を上げ、力が上昇	Li Xiaoyao roars: power up
+8724	あっ…しまった！~60	Ah... oh no!~60
+8725	このっ、くらいなさい！~60	Damn you! Take this!~60
+8726	林月如の力が突然上昇した	Lin Yueru's power surges
+8727	よくも…仇は取ってあげる！~60	Damn! I'll avenge you!~60
+8728	林月如の怒りが燃え、体力回復	Lin Yueru's rage restores HP
+8729	情けないわね、見てなさい！~60	Useless! Leave it to me!~60
+8730	林月如の闘志が燃え、真気回復	Lin Yueru's zeal restores MP
+8731	わあ、どうしよう！~60	Waah! What do we do?!~60
